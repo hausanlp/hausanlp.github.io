@@ -70,11 +70,10 @@ disabilities.
 ### Reporting Issues
 
 If you experience or witness unacceptable behavior, or have any other concerns,
-please report it by contacting the organisers - Bérénice, Malvika and Yo.
-(team@openlifesci.org).
+please report it by contacting the organisers at (hausanlp@gmail.com).
 
 To report an issue involving one of the members, please email one of the members individually
-(berenice@openlifesci.org, malvika@openlifesci.org, yo@openlifesci.org).
+(shmuhammad.csc@buk.edu.ng, isahamad.it@buk.edu.ng, bsbello.cs@buk.edu.ng).
 
 All reports will be handled with discretion. In your report please include:
 
@@ -98,4 +97,4 @@ purpose of protecting victims of abuse.
 
 ### Attribution & Acknowledgements
 
-This code of conduct is based on the Open Code of Conduct from the TODOGroup.
+This code of conduct is based on the Open Life Science Code of Conduct.
