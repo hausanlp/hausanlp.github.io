@@ -1,318 +1,188 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://hausanlp.github.io/</loc>
     <lastmod>2020-12-27T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/event/</loc>
     <lastmod>2020-12-27T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/event/example/</loc>
     <lastmod>2020-12-27T09:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/publication-type/2/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/abubakar-isa/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/authors/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/bashir-shehu-galadanci/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/idris-abdulmumin/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/publication_types/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/publication/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/publication/abdulmumin-2020-aa/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/others/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/publication/nekoto-2020-participatory/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/salomey-osei/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/salomon-kabongo/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/shamsuddee-hassan-muhammad/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/solomon-oluwole-akinola/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/taiwo-fagbohungbe/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/tajudeen-kolawole/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/timi-fasubaa/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/tshinondiwa-matsila/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/vukosi-marivate/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/wilhelmina-nekoto/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/aliyu-garba/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/publication/abdulmumin-2019-ab/</loc>
     <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/publication/abdulmumin-2019-aa/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/admin/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/publications/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/publications/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/tags/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/tag/classification/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/tag/corpus/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/project/hausacorpus/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/project/hausatranslation/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/project/hausaspeech/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/tag/speech/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/project/sanalysis/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/tag/translation/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/publications/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/publication-type/1/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/abdullahi-yau-gambo/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/abdulsalam-yau-gital/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/adamu-i-abubakar/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/bimba-andrew-thomas/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/jaafar-zubairu-maitama/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/norisma-binti-idris/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/publication/maitama-2014-text/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/usman-haruna/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/publications/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/contact/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/people/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/abdullahi-muhd-abdul-fatah/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/ahamdu-shehu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/bello-shehu-bello/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/ibrahim-said-ahmad/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/idris-abdulmuminu/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/jaafar-zubairu-maitama/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/post/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/shamsuddeen-hassan-muhammad/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://hausanlp.github.io/author/suhail-kamal/</loc>
   </url>
-  
 </urlset>
