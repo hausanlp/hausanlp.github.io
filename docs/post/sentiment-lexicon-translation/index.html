@@ -34,7 +34,7 @@
   
     
   
-  <meta name="description" content="Hausa Sentiment Lexicon Generation – What is entiment lexicon – why them? what are use for? In this maiden blog post, we will translate sentiment lexicon from the most widely used English lexicon to Hausa.">
+  <meta name="description" content="Introduction Sentiment ana[a]lysis (SA) is one of the most trending research areas in Artificial Intelligence (AI). Sentiment analysis is a technique used to identify the sentiments contained in natural language, which is[b] mostly shared on social media platforms.">
 
   
   <link rel="alternate" hreflang="en-us" href="https://www.hausanlp.org/post/sentiment-lexicon-translation/">
@@ -262,8 +262,8 @@
   
   <meta property="og:site_name" content="HausaNLP Research Group">
   <meta property="og:url" content="https://www.hausanlp.org/post/sentiment-lexicon-translation/">
-  <meta property="og:title" content="Sentiment Lexicon Translation from English to Hausa | HausaNLP Research Group">
-  <meta property="og:description" content="Hausa Sentiment Lexicon Generation – What is entiment lexicon – why them? what are use for? In this maiden blog post, we will translate sentiment lexicon from the most widely used English lexicon to Hausa."><meta property="og:image" content="https://www.hausanlp.org/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png">
+  <meta property="og:title" content="Sentiment Corpus Generation in Low Resource Language A bumpy Journey | HausaNLP Research Group">
+  <meta property="og:description" content="Introduction Sentiment ana[a]lysis (SA) is one of the most trending research areas in Artificial Intelligence (AI). Sentiment analysis is a technique used to identify the sentiments contained in natural language, which is[b] mostly shared on social media platforms."><meta property="og:image" content="https://www.hausanlp.org/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png">
   <meta property="twitter:image" content="https://www.hausanlp.org/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
   
     
@@ -295,7 +295,7 @@
     "@type": "WebPage",
     "@id": "https://www.hausanlp.org/post/sentiment-lexicon-translation/"
   },
-  "headline": "Sentiment Lexicon Translation from English to Hausa",
+  "headline": "Sentiment Corpus Generation in Low Resource Language A bumpy Journey",
   
   "datePublished": "2021-01-17T00:00:00Z",
   "dateModified": "2021-01-17T00:00:00Z",
@@ -313,7 +313,7 @@
       "url": "https://www.hausanlp.org/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_3.png"
     }
   },
-  "description": "Hausa Sentiment Lexicon Generation – What is entiment lexicon – why them? what are use for? In this maiden blog post, we will translate sentiment lexicon from the most widely used English lexicon to Hausa."
+  "description": "Introduction Sentiment ana[a]lysis (SA) is one of the most trending research areas in Artificial Intelligence (AI). Sentiment analysis is a technique used to identify the sentiments contained in natural language, which is[b] mostly shared on social media platforms."
 }
 </script>
 
@@ -331,7 +331,7 @@
 
 
 
-  <title>Sentiment Lexicon Translation from English to Hausa | HausaNLP Research Group</title>
+  <title>Sentiment Corpus Generation in Low Resource Language A bumpy Journey | HausaNLP Research Group</title>
 
 </head>
 
@@ -648,7 +648,7 @@
   
   
 <div class="article-container pt-3">
-  <h1>Sentiment Lexicon Translation from English to Hausa</h1>
+  <h1>Sentiment Corpus Generation in Low Resource Language A bumpy Journey</h1>
 
   
 
@@ -686,7 +686,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    1 min read
+    5 min read
   </span>
   
 
@@ -728,24 +728,40 @@
 <script src="https://www.hausanlp.org/post/sentiment-lexicon-translation/index_files/header-attrs/header-attrs.js"></script>
 
 
-<div id="hausa-sentiment-lexicon-generation" class="section level1">
-<h1>Hausa Sentiment Lexicon Generation</h1>
-<p>– What is entiment lexicon
-– why them? what are use for?
-In this maiden blog post, we will translate sentiment lexicon from the most widely used English lexicon to Hausa. The translated lexicon will then be use to perform sentiment analyis in using Hausa text.</p>
-<!-- ##  -->
+<div id="introduction" class="section level2">
+<h2>Introduction</h2>
+<p>Sentiment ana[a]lysis (SA) is one of the most trending research areas in Artificial Intelligence (AI). Sentiment analysis is a technique used to identify the sentiments contained in natural language, which is[b] mostly shared on social media platforms. A lot has been achieved in sentiment analysis research, focusing mostly on Rich-Resource Languages like English, German, and Arabic. However, there is little research on many Low Resources Languages. Consequently, we embarked on a mission to promote research on SA in languages spoken in Nigeria, which are all low resources languages. Our research was found worthy by Lacuna Fund, and they supported our team to develop sentiment corpus, sentiment lexicon, and hate speech lexicon for Hausa, Yoruba, and Igbo languages. These are important resources required in [c]sentiment analysis in any language. The project is ongoing, notwithstanding, this article summarizes some of the challenges we faced in the study.</p>
+</div>
+<div id="data-acquisition" class="section level2">
+<h2>Data Acquisition</h2>
+<p>In sentiment analysis, extracting data is very crucial and is often considered as one of the least challenging stage. This is because there are several tools, packages, and libraries to extract and preprocess the data from social media platforms like Twitter and Facebook. However, that’s not the case in many low resource languages.
+The first challenge we faced in data extraction is, Twitter does not have language codes for Hausa, Yoruba, and Igbo and so,[d] extraction tweets in these languages based on language code is impossible. Again, the location code can also not be used because multiple languages are used all over the country. Consequently, we had to crawl the tweets using distant supervision and via the use of stop words. The stop word list is also not available in the languages, [e]we had to devise a methodology, and generated stop words for the languages.
+Despite all the above, a lot of preprocessing was done to filter out tweets that are[f] not in the target languages. In conclusion, data extraction in low resource languages is possible despite insufficiency of standard methods for the extraction. Each language is unique and appropriate methods should be devised to fit the purpose.</p>
+</div>
+<div id="annotation-tools" class="section level2">
+<h2>Annotation Tools</h2>
+<p>Annotating text means adding meta-data to text, like semantics or sentiments. A good way for the AI to learn and understand nuances is through human annotations. Annotation is used to create datasets for natural language processing. The texts are either annotated or labeled with the purpose to make[g] the keywords or important words comprehensible to machines[h], and helping them to respond in the same way. We can either annotate an entire body of text into a class, called classification[i] or annotate a specific word (s) called tagging.
+Text annotation can easily be done in spreadsheet software like MS Excel; however, the process becomes tedious when the amount of data to annotate is large. Other limitations are spreadsheets are not convenient for multiuser annotation or calculating Inter Annotator Agreement (IAA). Consequently, it is more efficient to use specialized tools for the text annotation. However, most of the tools available (both free and paid) are in the development stage with obvious bugs. We tried over five tools and all of them have one problem or the other. The tool that we finally settled on comes near to perfection, but the review option is not working, and so the annotation texts cannot be reviewed in the tool.
+The challenge of choosing an annotation tool came as a shock to us, because during our preliminary study, we saw a lot of good options but upon using the tools, we found out that most of the developers are over-selling the capabilities of their tools. In conclusion, when choosing an annotation tool, it’s good to thoroughly explore the tool and try their functionality early to see if they fit your use-case.</p>
+</div>
+<div id="annotation-guideline-and-annotation-training" class="section level2">
+<h2>Annotation Guideline and Annotation Training</h2>
+<p>Annotation is mostly done by multiple annotators, preparable odd numbers, typically three to five in number. Therefore, it is crucial to develop an annotation guideline to aid the annotators. An effective annotation guideline helps annotators to understand clearly what is expected of them and hav[j]e accurate annotation. In rich resource languages, this stage is fairly straightforward. There are several annotation guidelines available in the literature and research are quite familiar with annotation in the languages. However, because of the peculiarities of each language, the existing annotation guidelines will not serve the purpose. Additionally, due to the insufficiency of researchers working on low resource languages, getting annotators that can accurately annotate texts in low resource languages is quite difficult. Several rounds of training and retraining is required to prepare the annotators and ensure a high inter annotator agreement.</p>
+</div>
+<div id="conclusion" class="section level2">
+<h2>Conclusion</h2>
+<p>There are several potentials and benefits to sentiment analysis research in low resource languages. Despite the several challenges, these challenges are opportunities for novel studies.<br />
 <!-- ```{r} -->
 <!-- library(googleLanguageR) -->
-<!-- gl_auth("hausalex_credential.json") -->
+<!-- gl_auth("hausalex_credential.json") --></p>
 <!-- ``` -->
 <!-- ```{r} -->
 <!-- library(tidytext) -->
 <!-- library(tidyverse) -->
 <!-- library(textdata) -->
 <!-- ``` -->
-<!-- <!-- ```{r} -->
-<p>–&gt;
-<!-- bin <- get_sentiments("bing")  --></p>
+<!-- ```{r} -->
+<!-- bin <- get_sentiments("bing")  -->
 <!-- bin_pos <- bin %>% filter(sentiment == "positive") -->
 <!-- bin_neg <- bin %>% filter(sentiment == "negative") -->
 <!-- ``` -->
@@ -1149,7 +1165,7 @@ In this maiden blog post, we will translate sentiment lexicon from the most wide
       
       
       <li>
-        <a href="https://twitter.com/intent/tweet?url=https://www.hausanlp.org/post/sentiment-lexicon-translation/&amp;text=Sentiment%20Lexicon%20Translation%20from%20English%20to%20Hausa" target="_blank" rel="noopener" class="share-btn-twitter">
+        <a href="https://twitter.com/intent/tweet?url=https://www.hausanlp.org/post/sentiment-lexicon-translation/&amp;text=Sentiment%20Corpus%20Generation%20in%20Low%20Resource%20Language%20A%20bumpy%20Journey" target="_blank" rel="noopener" class="share-btn-twitter">
           <i class="fab fa-twitter"></i>
         </a>
       </li>
@@ -1162,7 +1178,7 @@ In this maiden blog post, we will translate sentiment lexicon from the most wide
       
       
       <li>
-        <a href="https://www.facebook.com/sharer.php?u=https://www.hausanlp.org/post/sentiment-lexicon-translation/&amp;t=Sentiment%20Lexicon%20Translation%20from%20English%20to%20Hausa" target="_blank" rel="noopener" class="share-btn-facebook">
+        <a href="https://www.facebook.com/sharer.php?u=https://www.hausanlp.org/post/sentiment-lexicon-translation/&amp;t=Sentiment%20Corpus%20Generation%20in%20Low%20Resource%20Language%20A%20bumpy%20Journey" target="_blank" rel="noopener" class="share-btn-facebook">
           <i class="fab fa-facebook"></i>
         </a>
       </li>
@@ -1175,7 +1191,7 @@ In this maiden blog post, we will translate sentiment lexicon from the most wide
       
       
       <li>
-        <a href="mailto:?subject=Sentiment%20Lexicon%20Translation%20from%20English%20to%20Hausa&amp;body=https://www.hausanlp.org/post/sentiment-lexicon-translation/" target="_blank" rel="noopener" class="share-btn-email">
+        <a href="mailto:?subject=Sentiment%20Corpus%20Generation%20in%20Low%20Resource%20Language%20A%20bumpy%20Journey&amp;body=https://www.hausanlp.org/post/sentiment-lexicon-translation/" target="_blank" rel="noopener" class="share-btn-email">
           <i class="fas fa-envelope"></i>
         </a>
       </li>
@@ -1188,7 +1204,7 @@ In this maiden blog post, we will translate sentiment lexicon from the most wide
       
       
       <li>
-        <a href="https://www.linkedin.com/shareArticle?url=https://www.hausanlp.org/post/sentiment-lexicon-translation/&amp;title=Sentiment%20Lexicon%20Translation%20from%20English%20to%20Hausa" target="_blank" rel="noopener" class="share-btn-linkedin">
+        <a href="https://www.linkedin.com/shareArticle?url=https://www.hausanlp.org/post/sentiment-lexicon-translation/&amp;title=Sentiment%20Corpus%20Generation%20in%20Low%20Resource%20Language%20A%20bumpy%20Journey" target="_blank" rel="noopener" class="share-btn-linkedin">
           <i class="fab fa-linkedin-in"></i>
         </a>
       </li>
@@ -1201,7 +1217,7 @@ In this maiden blog post, we will translate sentiment lexicon from the most wide
       
       
       <li>
-        <a href="whatsapp://send?text=Sentiment%20Lexicon%20Translation%20from%20English%20to%20Hausa%20https://www.hausanlp.org/post/sentiment-lexicon-translation/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+        <a href="whatsapp://send?text=Sentiment%20Corpus%20Generation%20in%20Low%20Resource%20Language%20A%20bumpy%20Journey%20https://www.hausanlp.org/post/sentiment-lexicon-translation/" target="_blank" rel="noopener" class="share-btn-whatsapp">
           <i class="fab fa-whatsapp"></i>
         </a>
       </li>
@@ -1214,7 +1230,7 @@ In this maiden blog post, we will translate sentiment lexicon from the most wide
       
       
       <li>
-        <a href="https://service.weibo.com/share/share.php?url=https://www.hausanlp.org/post/sentiment-lexicon-translation/&amp;title=Sentiment%20Lexicon%20Translation%20from%20English%20to%20Hausa" target="_blank" rel="noopener" class="share-btn-weibo">
+        <a href="https://service.weibo.com/share/share.php?url=https://www.hausanlp.org/post/sentiment-lexicon-translation/&amp;title=Sentiment%20Corpus%20Generation%20in%20Low%20Resource%20Language%20A%20bumpy%20Journey" target="_blank" rel="noopener" class="share-btn-weibo">
           <i class="fab fa-weibo"></i>
         </a>
       </li>
