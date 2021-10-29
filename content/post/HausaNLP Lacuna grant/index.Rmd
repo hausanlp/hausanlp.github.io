@@ -1,0 +1,35 @@
+---
+title: HausaNLP Research Group got funding from Lacuna Fund.
+date: 2021-01-17
+draft: false
+authors:
+- admin
+tags:
+- corpus
+featured: false
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
+# Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
+image:
+  placement: 3gi
+  caption: 'Developing of sentiment corpus for Nigerian languages'
+  focal_point: "Smart"
+  preview_only: true
+---
+
+
+HausaNLP proposed project is one of the selected project in the Lacuna Language 2020 Awards, an action promoted by Lacuna Fund, the first collaborative initiative in the world dedicated to provide the resources that data scientists, researchers and social entrepreneurs need to produce labelled datasets, in order to address the main issues within their communities.
+
+
+The main goal of the project is to promote the global digital inclusion, by producing the first high-quality open datasets, with manual annotations, gathered from content included in digital platforms, and written in the three main Nigerian languages: Hausa, Igbo and Yoruba. These datasets are important for natural language processing tasks such as sentiment and emotion analysis, as well as the detection of hate speech and fake news.
+
+Languages spoken in Africa have few language resources, and those that do exist are insufficient, e.g., datasets for important Artificial Intelligence (AI) tasks. This project will play a key role in the development of information for African languages, encouraging the growth and dissemination of AI research in these locations, benefiting from these datasets.
+
+
+
+<style>
+body {
+text-align: justify}
+</style>
+
