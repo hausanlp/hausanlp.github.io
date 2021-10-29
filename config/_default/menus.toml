@@ -31,10 +31,10 @@
   url = "/#projects" 
   weight = 50
 
-[[main]]
-  name = "Events"
-  url = "event"
-  weight = 60
+#[[main]]
+ # name = "Events"
+#  url = "event"
+ # weight = 60
 
 [[main]]
   name = "Contact"
