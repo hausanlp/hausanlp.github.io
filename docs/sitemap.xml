@@ -2,8 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.hausanlp.org/author/admin/</loc>
+    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/authors/</loc>
+    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/tag/corpus/</loc>
+    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.hausanlp.org/</loc>
-    <lastmod>2020-12-27T09:00:00+00:00</lastmod>
+    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/post/</loc>
+    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/post/sentiment-lexicon-translation/</loc>
+    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/tags/</loc>
+    <lastmod>2021-01-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.hausanlp.org/event/</loc>
     <lastmod>2020-12-27T09:00:00+00:00</lastmod>
@@ -15,9 +33,6 @@
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.hausanlp.org/author/abubakar-isa/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.hausanlp.org/authors/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.hausanlp.org/author/bashir-shehu-galadanci/</loc>
@@ -83,9 +98,6 @@
     <loc>https://www.hausanlp.org/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.hausanlp.org/author/admin/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.hausanlp.org/publications/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -95,13 +107,7 @@
     <loc>https://www.hausanlp.org/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.hausanlp.org/tags/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.hausanlp.org/tag/classification/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.hausanlp.org/tag/corpus/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.hausanlp.org/project/hausacorpus/</loc>
@@ -179,7 +185,7 @@
   </url><url>
     <loc>https://www.hausanlp.org/author/jaafar-zubairu-maitama/</loc>
   </url><url>
-    <loc>https://www.hausanlp.org/post/</loc>
+    <loc>https://www.hausanlp.org/author/shamsuddeen-hassan-muhammad/</loc>
   </url><url>
     <loc>https://www.hausanlp.org/author/shamsuddeen-hassan-muhammad/</loc>
   </url><url>
