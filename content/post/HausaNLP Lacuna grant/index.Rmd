@@ -1,6 +1,6 @@
 ---
 title: HausaNLP Research Group got funding from Lacuna Fund.
-date: 2021-01-17
+date: 2021-10-17
 draft: false
 authors:
 - admin
