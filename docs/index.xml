@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>HausaNLP Research Group</title>
-    <link>https://hausanlp.github.io/</link>
-      <atom:link href="https://hausanlp.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.hausanlp.org/</link>
+      <atom:link href="https://www.hausanlp.org/index.xml" rel="self" type="application/rss+xml" />
     <description>HausaNLP Research Group</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© HausaNLP Research Group. Site maintained by Shamsuddeen Muhammad</copyright><lastBuildDate>Sun, 27 Dec 2020 09:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hausanlp.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.hausanlp.org/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>HausaNLP Research Group</title>
-      <link>https://hausanlp.github.io/</link>
+      <link>https://www.hausanlp.org/</link>
     </image>
     
     <item>
       <title>Weekly Meeting</title>
-      <link>https://hausanlp.github.io/event/example/</link>
+      <link>https://www.hausanlp.org/event/example/</link>
       <pubDate>Sun, 27 Dec 2020 09:00:00 +0000</pubDate>
-      <guid>https://hausanlp.github.io/event/example/</guid>
+      <guid>https://www.hausanlp.org/event/example/</guid>
       <description>&lt;!---
 #Slides can be added in a few ways:
 
@@ -32,76 +32,76 @@
     
     <item>
       <title>Using Self-Training to Improve Back-Translation in Low Resource Neural Machine Translation</title>
-      <link>https://hausanlp.github.io/publication/abdulmumin-2020-aa/</link>
+      <link>https://www.hausanlp.org/publication/abdulmumin-2020-aa/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://hausanlp.github.io/publication/abdulmumin-2020-aa/</guid>
+      <guid>https://www.hausanlp.org/publication/abdulmumin-2020-aa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages</title>
-      <link>https://hausanlp.github.io/publication/nekoto-2020-participatory/</link>
+      <link>https://www.hausanlp.org/publication/nekoto-2020-participatory/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://hausanlp.github.io/publication/nekoto-2020-participatory/</guid>
+      <guid>https://www.hausanlp.org/publication/nekoto-2020-participatory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tag-less Back-Translation</title>
-      <link>https://hausanlp.github.io/publication/abdulmumin-2019-ab/</link>
+      <link>https://www.hausanlp.org/publication/abdulmumin-2019-ab/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://hausanlp.github.io/publication/abdulmumin-2019-ab/</guid>
+      <guid>https://www.hausanlp.org/publication/abdulmumin-2019-ab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hauWE: Hausa Words Embedding for Natural Language Processing</title>
-      <link>https://hausanlp.github.io/publication/abdulmumin-2019-aa/</link>
+      <link>https://www.hausanlp.org/publication/abdulmumin-2019-aa/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://hausanlp.github.io/publication/abdulmumin-2019-aa/</guid>
+      <guid>https://www.hausanlp.org/publication/abdulmumin-2019-aa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>https://hausanlp.github.io/publications/preprint/</link>
+      <link>https://www.hausanlp.org/publications/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://hausanlp.github.io/publications/preprint/</guid>
+      <guid>https://www.hausanlp.org/publications/preprint/</guid>
       <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hausa Corpus</title>
-      <link>https://hausanlp.github.io/project/hausacorpus/</link>
+      <link>https://www.hausanlp.org/project/hausacorpus/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://hausanlp.github.io/project/hausacorpus/</guid>
+      <guid>https://www.hausanlp.org/project/hausacorpus/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hausa Machine Translation</title>
-      <link>https://hausanlp.github.io/project/hausatranslation/</link>
+      <link>https://www.hausanlp.org/project/hausatranslation/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://hausanlp.github.io/project/hausatranslation/</guid>
+      <guid>https://www.hausanlp.org/project/hausatranslation/</guid>
       <description>&lt;p&gt;Idris Abdulmumin is the lead for this project. He works on Hausa machine translation and related research.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Hausa Speech Recognition</title>
-      <link>https://hausanlp.github.io/project/hausaspeech/</link>
+      <link>https://www.hausanlp.org/project/hausaspeech/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://hausanlp.github.io/project/hausaspeech/</guid>
+      <guid>https://www.hausanlp.org/project/hausaspeech/</guid>
       <description>&lt;p&gt;This is project involves people with intreset on Hausa speech recognition and related research. .&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Text Classification</title>
-      <link>https://hausanlp.github.io/project/sanalysis/</link>
+      <link>https://www.hausanlp.org/project/sanalysis/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://hausanlp.github.io/project/sanalysis/</guid>
+      <guid>https://www.hausanlp.org/project/sanalysis/</guid>
       <description>&lt;p&gt;This project involves people that are interested in Hausa text classification task such as sentiment analysis.&lt;/p&gt;
 &lt;h1 id=&#34;style&#34;&gt;&lt;style&gt;&lt;/h1&gt;
 &lt;h1 id=&#34;body-&#34;&gt;body {&lt;/h1&gt;
@@ -112,9 +112,9 @@
     
     <item>
       <title>An example journal article</title>
-      <link>https://hausanlp.github.io/publications/journal-article/</link>
+      <link>https://www.hausanlp.org/publications/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://hausanlp.github.io/publications/journal-article/</guid>
+      <guid>https://www.hausanlp.org/publications/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -126,9 +126,9 @@
     
     <item>
       <title>Text normalization algorithm for facebook chats in hausa language</title>
-      <link>https://hausanlp.github.io/publication/maitama-2014-text/</link>
+      <link>https://www.hausanlp.org/publication/maitama-2014-text/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://hausanlp.github.io/publication/maitama-2014-text/</guid>
+      <guid>https://www.hausanlp.org/publication/maitama-2014-text/</guid>
       <description>&lt;p&gt;The rapid increase in using non-standard words (NSWs) in communication through the social media is causing difficulties in understanding contents of the text messages. In addition, it affects the performance of several natural language processing (NLP) task such as machine translation, information retrievals, summarization and etc. In this study, we present an automatic text normalization system on Facebook chatting based on Hausa language. The proposed algorithm manually developed dictionary that employ normalization of each non-standard word with its equivalent standard word. This is accomplished through modification of the technique employed by [1] to fit Hausa NSWs&#39; formation. It was found that our proposed algorithm was able to normalized Hausa NSWs with an accuracy of 100%The results of this research can facilitate comprehensive communication via Facebook using Hausa language.&lt;/p&gt;
 &lt;style&gt;
 body {
@@ -139,9 +139,9 @@ text-align: justify}
     
     <item>
       <title>An example conference paper</title>
-      <link>https://hausanlp.github.io/publications/conference-paper/</link>
+      <link>https://www.hausanlp.org/publications/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://hausanlp.github.io/publications/conference-paper/</guid>
+      <guid>https://www.hausanlp.org/publications/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -153,17 +153,17 @@ text-align: justify}
     
     <item>
       <title></title>
-      <link>https://hausanlp.github.io/contact/</link>
+      <link>https://www.hausanlp.org/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hausanlp.github.io/contact/</guid>
+      <guid>https://www.hausanlp.org/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://hausanlp.github.io/people/</link>
+      <link>https://www.hausanlp.org/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://hausanlp.github.io/people/</guid>
+      <guid>https://www.hausanlp.org/people/</guid>
       <description></description>
     </item>
     

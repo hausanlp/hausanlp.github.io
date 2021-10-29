@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications | HausaNLP Research Group</title>
-    <link>https://hausanlp.github.io/publication/</link>
-      <atom:link href="https://hausanlp.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.hausanlp.org/publication/</link>
+      <atom:link href="https://www.hausanlp.org/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© HausaNLP Research Group. Site maintained by Shamsuddeen Muhammad</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hausanlp.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://www.hausanlp.org/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
-      <link>https://hausanlp.github.io/publication/</link>
+      <link>https://www.hausanlp.org/publication/</link>
     </image>
     
     <item>
       <title>Using Self-Training to Improve Back-Translation in Low Resource Neural Machine Translation</title>
-      <link>https://hausanlp.github.io/publication/abdulmumin-2020-aa/</link>
+      <link>https://www.hausanlp.org/publication/abdulmumin-2020-aa/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://hausanlp.github.io/publication/abdulmumin-2020-aa/</guid>
+      <guid>https://www.hausanlp.org/publication/abdulmumin-2020-aa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages</title>
-      <link>https://hausanlp.github.io/publication/nekoto-2020-participatory/</link>
+      <link>https://www.hausanlp.org/publication/nekoto-2020-participatory/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://hausanlp.github.io/publication/nekoto-2020-participatory/</guid>
+      <guid>https://www.hausanlp.org/publication/nekoto-2020-participatory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tag-less Back-Translation</title>
-      <link>https://hausanlp.github.io/publication/abdulmumin-2019-ab/</link>
+      <link>https://www.hausanlp.org/publication/abdulmumin-2019-ab/</link>
       <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://hausanlp.github.io/publication/abdulmumin-2019-ab/</guid>
+      <guid>https://www.hausanlp.org/publication/abdulmumin-2019-ab/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hauWE: Hausa Words Embedding for Natural Language Processing</title>
-      <link>https://hausanlp.github.io/publication/abdulmumin-2019-aa/</link>
+      <link>https://www.hausanlp.org/publication/abdulmumin-2019-aa/</link>
       <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://hausanlp.github.io/publication/abdulmumin-2019-aa/</guid>
+      <guid>https://www.hausanlp.org/publication/abdulmumin-2019-aa/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Text normalization algorithm for facebook chats in hausa language</title>
-      <link>https://hausanlp.github.io/publication/maitama-2014-text/</link>
+      <link>https://www.hausanlp.org/publication/maitama-2014-text/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>https://hausanlp.github.io/publication/maitama-2014-text/</guid>
+      <guid>https://www.hausanlp.org/publication/maitama-2014-text/</guid>
       <description>&lt;p&gt;The rapid increase in using non-standard words (NSWs) in communication through the social media is causing difficulties in understanding contents of the text messages. In addition, it affects the performance of several natural language processing (NLP) task such as machine translation, information retrievals, summarization and etc. In this study, we present an automatic text normalization system on Facebook chatting based on Hausa language. The proposed algorithm manually developed dictionary that employ normalization of each non-standard word with its equivalent standard word. This is accomplished through modification of the technique employed by [1] to fit Hausa NSWs&#39; formation. It was found that our proposed algorithm was able to normalized Hausa NSWs with an accuracy of 100%The results of this research can facilitate comprehensive communication via Facebook using Hausa language.&lt;/p&gt;
 &lt;style&gt;
 body {
