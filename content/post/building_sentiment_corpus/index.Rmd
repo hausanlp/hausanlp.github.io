@@ -46,6 +46,7 @@ Annotation is mostly done by multiple annotators, preparable odd numbers, typica
 There are several potentials and benefits to sentiment analysis research in low resource languages. Despite the several challenges, these challenges are opportunities for novel studies.  
 
 
+
 <style>
 body {
 text-align: justify}
