@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>speech | HausaNLP Research Group</title>
+    <link>https://www.hausanlp.org/tag/speech/</link>
+      <atom:link href="https://www.hausanlp.org/tag/speech/index.xml" rel="self" type="application/rss+xml" />
+    <description>speech</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© HausaNLP Research Group. Site maintained by Shamsuddeen Muhammad</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.hausanlp.org/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>speech</title>
+      <link>https://www.hausanlp.org/tag/speech/</link>
+    </image>
+    
+    <item>
+      <title>Hausa Speech Recognition</title>
+      <link>https://www.hausanlp.org/project/hausaspeech/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.hausanlp.org/project/hausaspeech/</guid>
+      <description>&lt;p&gt;This is project involves people with intreset on Hausa speech recognition and related research. .&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
