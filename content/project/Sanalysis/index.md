@@ -1,6 +1,6 @@
 ---
-title: Text Classification
-summary:  "Project on Hausa Text Classification"
+title: Development of Nigerian Twitter Sentiment Corpus
+summary:  "NaijaSenti: Nigerian Twitter Sentiment Corpus"
 tags:
 - classification
 date: "2016-04-27T00:00:00Z"
@@ -29,9 +29,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 ---
 
-This project involves people that are interested in Hausa text classification task such as sentiment analysis. 
-
-
+NaijaSenti is a [Lacuna funded](https://lacunafund.org/language-2020-awards/) project for the developement of sentiment corpus for four Nigerain languages (Hausa, Igbo, Yoruba and Pidgin). Visit the project Github page for more information [here](https://github.com/hausanlp/NaijaSenti)
  
 # <style>
 # body {
