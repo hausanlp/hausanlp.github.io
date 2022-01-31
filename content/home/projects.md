@@ -27,12 +27,10 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Hausa Text Classification
+  - name: Hausa Sentiment Analysis
     tag:  classification
   - name: Hausa Machine Translation
     tag : translation
-  - name: Hausa Speech Recognition
-    tag : speech
   - name: Hausa Corpus
     tag : corpus
 
