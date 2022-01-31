@@ -1,5 +1,5 @@
 ---
-title: Hausa Visual Genome Multimodal Machine Translation
+title: Hausa Multimodal Machine Translation
 summary:  "Hausa Machine Translation"
 tags:
 - translation
