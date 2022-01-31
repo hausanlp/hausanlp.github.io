@@ -1,6 +1,6 @@
 ---
-title: Hausa Machine Translation
-summary:  "Project on Hausa Machine Translation"
+title: Hausa Visual Genome Multimodal Machine Translation
+summary:  "Hausa Machine Translation"
 tags:
 - translation
 date: "2016-04-27T00:00:00Z"
@@ -29,6 +29,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 ---
 
-Idris Abdulmumin is the lead for this project. He works on Hausa machine translation and related research. 
-
-
+For more information about this project, visit the project [Github page](https://github.com/hausanlp/HausaVisualGenome)
