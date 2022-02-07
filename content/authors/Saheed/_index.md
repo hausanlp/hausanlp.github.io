@@ -30,9 +30,6 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science
-    institution:  Universiti Sains Malaysia
-    year: 2019
   - course: M.Eng Computer Applied Technology
     institution: Changchun University of Science and Technology, China
     year: 2020
