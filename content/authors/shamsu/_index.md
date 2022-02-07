@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science (In View)
+  - course: PhD in Computer Science (Ongoing)
     institution: The University of Porto, Portugal.
   - course: MSc in Computer Science
     institution: The University of Manchester, UK 

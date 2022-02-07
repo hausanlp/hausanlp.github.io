@@ -30,7 +30,7 @@ interests:
 education:      
   courses: 
 
-  - course: Ph.D Computer Science and Technology (in view)
+  - course: Ph.D Computer Science and Technology (Ongoing)
     institution: University of Chinese Academy of Sciences, China
   - course: M.Sc Electrical and Electronics Engineering
     institution: Mevlana University, Turkey

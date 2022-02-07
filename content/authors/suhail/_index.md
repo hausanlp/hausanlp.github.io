@@ -28,7 +28,7 @@ interests:
 education:      
   courses: 
 
-  - course: PhD in Computer Science and Technology (in view)
+  - course: PhD in Computer Science and Technology (Ongoing)
     institution: Xiamen University, China
   - course: MEng Computer and Microelectronic System 
     institution: Universiti Teknologi Malaysia

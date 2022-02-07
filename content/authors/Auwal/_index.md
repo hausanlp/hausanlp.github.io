@@ -31,9 +31,8 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: PhD in Computer Science (Ongoing)
     institution:  Universiti Sains Malaysia
-    year: 2019
   - course: MSc Computer Science
     institution: Bayero University Kano
     year: 2015
