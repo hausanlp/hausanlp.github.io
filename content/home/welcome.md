@@ -16,8 +16,7 @@ advanced:
   #css_class: "custom"
 ---
 
-Despite Hausa language being the second most spoken language in Africa and 27<sup>th</sup> in the world, there are no language resources for Hausa natural language processing (NLP). We are open source community aim to promote HausaNLP by developing Hausa language resources, promote HausaNLP research, and collaboration among relevant stakeholders.
-
+Despite Hausa language being the second most spoken language in Africa and 27<sup>th</sup> in the world, there are no language resources for Hausa natural language processing (NLP). We are open source community aim to promote HausaNLP by developing Hausa language resources, promote HausaNLP research, and collaboration among relevant stakeholders. 
 
 
 

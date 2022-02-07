@@ -5,7 +5,7 @@
     <link>https://www.hausanlp.org/project/</link>
       <atom:link href="https://www.hausanlp.org/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© HausaNLP Research Group. Site maintained by Shamsuddeen Muhammad</copyright><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© HausaNLP Research Group. Site maintained by Shamsuddeen Muhammad</copyright><lastBuildDate>Tue, 27 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.hausanlp.org/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
@@ -13,41 +13,24 @@
     </image>
     
     <item>
-      <title>Hausa Corpus</title>
-      <link>https://www.hausanlp.org/project/hausacorpus/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.hausanlp.org/project/hausacorpus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hausa Machine Translation</title>
-      <link>https://www.hausanlp.org/project/hausatranslation/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.hausanlp.org/project/hausatranslation/</guid>
-      <description>&lt;p&gt;Idris Abdulmumin is the lead for this project. He works on Hausa machine translation and related research.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hausa Speech Recognition</title>
-      <link>https://www.hausanlp.org/project/hausaspeech/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://www.hausanlp.org/project/hausaspeech/</guid>
-      <description>&lt;p&gt;This is project involves people with intreset on Hausa speech recognition and related research. .&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Text Classification</title>
+      <title>Development of Nigerian Twitter Sentiment Corpus</title>
       <link>https://www.hausanlp.org/project/sanalysis/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 27 Apr 2021 00:00:00 +0000</pubDate>
       <guid>https://www.hausanlp.org/project/sanalysis/</guid>
-      <description>&lt;p&gt;This project involves people that are interested in Hausa text classification task such as sentiment analysis.&lt;/p&gt;
+      <description>&lt;p&gt;NaijaSenti is a &lt;a href=&#34;https://lacunafund.org/language-2020-awards/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Lacuna funded&lt;/a&gt; project for the developement of sentiment corpus for four Nigerain languages (Hausa, Igbo, Yoruba and Pidgin). Visit the project Github page for more information &lt;a href=&#34;https://github.com/hausanlp/NaijaSenti&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;style&#34;&gt;&lt;style&gt;&lt;/h1&gt;
 &lt;h1 id=&#34;body-&#34;&gt;body {&lt;/h1&gt;
 &lt;h1 id=&#34;text-align-justify&#34;&gt;text-align: justify}&lt;/h1&gt;
 &lt;h1 id=&#34;style-1&#34;&gt;&lt;/style&gt;&lt;/h1&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hausa Multimodal Machine Translation</title>
+      <link>https://www.hausanlp.org/project/hausatranslation/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://www.hausanlp.org/project/hausatranslation/</guid>
+      <description>&lt;p&gt;For more information about this project, visit the project &lt;a href=&#34;https://github.com/hausanlp/HausaVisualGenome&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github page&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

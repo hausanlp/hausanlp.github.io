@@ -5,7 +5,7 @@
     <link>https://www.hausanlp.org/author/idris-abdulmumin/</link>
       <atom:link href="https://www.hausanlp.org/author/idris-abdulmumin/index.xml" rel="self" type="application/rss+xml" />
     <description>Idris Abdulmumin</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© HausaNLP Research Group. Site maintained by Shamsuddeen Muhammad</copyright><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© HausaNLP Research Group. Site maintained by Shamsuddeen Muhammad</copyright><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://www.hausanlp.org/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Idris Abdulmumin</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Using Self-Training to Improve Back-Translation in Low Resource Neural Machine Translation</title>
-      <link>https://www.hausanlp.org/publication/abdulmumin-2020-aa/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.hausanlp.org/publication/abdulmumin-2020-aa/</guid>
+      <title>NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis</title>
+      <link>https://www.hausanlp.org/publication/muhammad-2022-naijasenti/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://www.hausanlp.org/publication/muhammad-2022-naijasenti/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tag-less Back-Translation</title>
-      <link>https://www.hausanlp.org/publication/abdulmumin-2019-ab/</link>
-      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.hausanlp.org/publication/abdulmumin-2019-ab/</guid>
+      <title>Using Self-Training to Improve Back-Translation in Low Resource Neural Machine Translation</title>
+      <link>https://www.hausanlp.org/publication/abdulmumin-2020-aa/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>https://www.hausanlp.org/publication/abdulmumin-2020-aa/</guid>
       <description></description>
     </item>
     

@@ -24,7 +24,9 @@ The main goal of the project is to promote global digital inclusion by producing
 
 Languages spoken in Africa have few language resources, and those that do exist are insufficient, e.g., datasets for important artificial intelligence (AI) tasks. This project will play a key role in the development of information for African languages, encouraging the growth and dissemination of AI research in these locations and benefiting from these datasets.Find out more about the project [on the preject Github page](https://github.com/hausanlp/sentiNaija)
 
+```{=html}
 <style>
 body {
 text-align: justify}
 </style>
+```

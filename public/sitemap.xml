@@ -2,16 +2,64 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.hausanlp.org/publication-type/0/</loc>
+    <lastmod>2022-01-31T17:57:33+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/author/alipio-jeorge/</loc>
+    <lastmod>2022-01-31T17:27:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/author/anuoluwapo-aremu/</loc>
+    <lastmod>2022-01-31T17:27:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/authors/</loc>
+    <lastmod>2022-01-31T17:57:33+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/author/bello-shehu-bello/</loc>
+    <lastmod>2022-01-31T17:27:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/author/chris-chinenye-emezue/</loc>
+    <lastmod>2022-01-31T17:27:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/author/david-ifeoluwa-adelani/</loc>
+    <lastmod>2022-01-31T17:27:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/</loc>
+    <lastmod>2022-01-31T17:57:33+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/author/ibrahim-said-ahmad/</loc>
+    <lastmod>2022-01-31T17:27:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/author/idris-abdulmumin/</loc>
+    <lastmod>2022-01-31T17:27:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/author/monojit-choudhury/</loc>
+    <lastmod>2022-01-31T17:27:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/publication/muhammad-2022-naijasenti/</loc>
+    <lastmod>2022-01-31T17:27:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/author/pavel-brazdil/</loc>
+    <lastmod>2022-01-31T17:27:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/publication_types/</loc>
+    <lastmod>2022-01-31T17:57:33+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/publication/</loc>
+    <lastmod>2022-01-31T17:57:33+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/author/saheed-salahudeen-abdullahi/</loc>
+    <lastmod>2022-01-31T17:27:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/author/sebastian-ruder/</loc>
+    <lastmod>2022-01-31T17:27:30+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/author/shamsuddeen-hassan-muhammad/</loc>
+    <lastmod>2022-01-31T17:57:33+00:00</lastmod>
+  </url><url>
     <loc>https://www.hausanlp.org/author/admin/</loc>
     <lastmod>2021-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.hausanlp.org/authors/</loc>
-    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.hausanlp.org/tag/corpus/</loc>
-    <lastmod>2021-10-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.hausanlp.org/</loc>
     <lastmod>2021-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.hausanlp.org/post/hausanlp-lacuna-grant/</loc>
@@ -23,8 +71,35 @@
     <loc>https://www.hausanlp.org/tags/</loc>
     <lastmod>2021-10-17T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://www.hausanlp.org/tag/classification/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/project/sanalysis/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/project/</loc>
+    <lastmod>2021-04-27T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://www.hausanlp.org/post/building_sentiment_corpus/</loc>
     <lastmod>2021-01-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/publication-type/2/</loc>
+    <lastmod>2022-01-31T17:27:31+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/author/abubakar-roko/</loc>
+    <lastmod>2022-01-31T17:27:31+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/author/amina-imam-abubakar/</loc>
+    <lastmod>2022-01-31T17:27:31+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/author/aminu-muhammad-bui/</loc>
+    <lastmod>2022-01-31T17:27:31+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/publication/abubakar-2021/</loc>
+    <lastmod>2022-01-31T17:27:31+00:00</lastmod>
+  </url><url>
+    <loc>https://www.hausanlp.org/author/ibrahim-saidu/</loc>
+    <lastmod>2022-01-31T17:27:31+00:00</lastmod>
   </url><url>
     <loc>https://www.hausanlp.org/event/</loc>
     <lastmod>2020-12-27T09:00:00+00:00</lastmod>
@@ -32,68 +107,38 @@
     <loc>https://www.hausanlp.org/event/example/</loc>
     <lastmod>2020-12-27T09:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.hausanlp.org/publication-type/2/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.hausanlp.org/author/abubakar-isa/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.hausanlp.org/author/bashir-shehu-galadanci/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.hausanlp.org/author/idris-abdulmumin/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.hausanlp.org/publication_types/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.hausanlp.org/publication/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.hausanlp.org/publication/abdulmumin-2020-aa/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.hausanlp.org/author/others/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.hausanlp.org/publication/nekoto-2020-participatory/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.hausanlp.org/author/salomey-osei/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.hausanlp.org/author/salomon-kabongo/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.hausanlp.org/author/shamsuddee-hassan-muhammad/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-31T17:57:33+00:00</lastmod>
   </url><url>
     <loc>https://www.hausanlp.org/author/solomon-oluwole-akinola/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-31T17:57:33+00:00</lastmod>
   </url><url>
     <loc>https://www.hausanlp.org/author/taiwo-fagbohungbe/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-31T17:57:33+00:00</lastmod>
   </url><url>
     <loc>https://www.hausanlp.org/author/tajudeen-kolawole/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-31T17:57:33+00:00</lastmod>
   </url><url>
     <loc>https://www.hausanlp.org/author/timi-fasubaa/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-31T17:57:33+00:00</lastmod>
   </url><url>
     <loc>https://www.hausanlp.org/author/tshinondiwa-matsila/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-31T17:57:33+00:00</lastmod>
   </url><url>
     <loc>https://www.hausanlp.org/author/vukosi-marivate/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-31T17:57:33+00:00</lastmod>
   </url><url>
     <loc>https://www.hausanlp.org/author/wilhelmina-nekoto/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.hausanlp.org/author/aliyu-garba/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.hausanlp.org/publication/abdulmumin-2019-ab/</loc>
-    <lastmod>2019-12-01T00:00:00+00:00</lastmod>
+    <lastmod>2022-01-31T17:57:33+00:00</lastmod>
   </url><url>
     <loc>https://www.hausanlp.org/publication/abdulmumin-2019-aa/</loc>
     <lastmod>2019-11-01T00:00:00+00:00</lastmod>
@@ -101,40 +146,22 @@
     <loc>https://www.hausanlp.org/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.hausanlp.org/publications/preprint/</loc>
+    <loc>https://www.hausanlp.org/publicationss/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.hausanlp.org/publications/</loc>
+    <loc>https://www.hausanlp.org/publicationss/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.hausanlp.org/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.hausanlp.org/tag/classification/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.hausanlp.org/project/hausacorpus/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://www.hausanlp.org/project/hausatranslation/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.hausanlp.org/project/hausaspeech/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.hausanlp.org/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.hausanlp.org/tag/speech/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.hausanlp.org/project/sanalysis/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.hausanlp.org/tag/translation/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.hausanlp.org/publications/journal-article/</loc>
+    <loc>https://www.hausanlp.org/publicationss/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.hausanlp.org/author/robert-ford/</loc>
@@ -167,14 +194,18 @@
     <loc>https://www.hausanlp.org/author/usman-haruna/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://www.hausanlp.org/publications/conference-paper/</loc>
+    <loc>https://www.hausanlp.org/publicationss/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.hausanlp.org/contact/</loc>
   </url><url>
     <loc>https://www.hausanlp.org/people/</loc>
   </url><url>
+    <loc>https://www.hausanlp.org/author/abdullahi-saheed-salahudeen/</loc>
+  </url><url>
     <loc>https://www.hausanlp.org/author/ahamdu-shehu/</loc>
+  </url><url>
+    <loc>https://www.hausanlp.org/author/auwal-shehu-ali/</loc>
   </url><url>
     <loc>https://www.hausanlp.org/author/bello-shehu-bello/</loc>
   </url><url>
@@ -185,6 +216,8 @@
     <loc>https://www.hausanlp.org/author/idris-abdulmuminu/</loc>
   </url><url>
     <loc>https://www.hausanlp.org/author/jaafar-zubairu-maitama/</loc>
+  </url><url>
+    <loc>https://www.hausanlp.org/author/sanah-abdullahi-muaz/</loc>
   </url><url>
     <loc>https://www.hausanlp.org/author/shamsuddeen-hassan-muhammad/</loc>
   </url><url>
