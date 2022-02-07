@@ -10,7 +10,8 @@ authors:
 superuser: false
 
 # Role/position
-role: Lecturer in Computer Science
+role: Lecturer in Computer Science at Kaduna State University (KASU)
+
 
 
 # Organizations/Affiliations

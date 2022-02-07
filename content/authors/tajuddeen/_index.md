@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: PhD candiate in Computer Science, University of Chinese Academy of Sciences, China.
 
 # Organizations/Affiliations
 organizations:

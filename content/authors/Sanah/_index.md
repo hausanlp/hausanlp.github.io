@@ -11,7 +11,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Lecturer in Computer Sciences
+role: Lecturer in Software Engineering at Bayero University,Kano (BUK)
 
 # Organizations/Affiliations
 organizations:
