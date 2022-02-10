@@ -39,7 +39,7 @@ hero_media = "welcome.jpg"
 #   Display link(s) by specifying a URL and label below. Icon is optional for `[cta]`.
 #   Remove a link/note by deleting a cta/note block.
 [cta]
-  url = "https://github.com/hausanlp"
+  url = "https://join.slack.com/t/hausanlp/shared_invite/zt-ndbyv4td-VyhGaGgMPk0c4A2OIBk2mA"
   label = "Join Us"
   icon_pack = ""
   icon = ""
