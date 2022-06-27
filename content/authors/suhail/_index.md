@@ -1,41 +1,40 @@
 ---
 # Display name
-title: Suhail Kamal
+title: Garba Mousa (PhD)
 
 # Username (this should match the folder name)
 authors:
-- Suhail
+- garba
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Lecturer in Information Technology at Bayero University, Kano(BUK)
+role: Founder, Hackerthon Hausa Africa
 
 # Organizations/Affiliations
 organizations:
-- name: Bayero University, Kano
-  url: "https://www.buk.edu.ng/"
+- name: Hackthon Hausa Africa
+  url: "https://www.linkedin.com/company/hackathon-hausa-africa/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Sign Language Recognition
-- Sign Language Translation
-- Machine Translation
+- Machine Learning
+- Data Science
 
-education:      
-  courses: 
+#education:      
+#  courses: 
 
-  - course: PhD in Computer Science and Technology (Ongoing)
-    institution: Xiamen University, China
-  - course: MEng Computer and Microelectronic System 
-    institution: Universiti Teknologi Malaysia
-    year: 2014
-  - course: BEng Computer Engineering 2011
-    institution: Bayero University, Kano
-    year: 2011
+ # - course: PhD in Computer Science and Technology (Ongoing)
+  #  institution: Xiamen University, China
+  #- course: MEng Computer and Microelectronic System 
+   # institution: Universiti Teknologi Malaysia
+    #year: 2014
+  #- course: BEng Computer Engineering 2011
+   # institution: Bayero University, Kano
+  #  year: 2011
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,11 +44,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:suhailkam2002@yahoo.com'  
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=YOn3jxUAAAAJ&hl=en
-  
+  link: 'mailto:moussagarba@icloud.com'  
+- icon: linkedin
+  icon_pack: fa
+  link: https://www.linkedin.com/company/hackathon-hausa-africa/
   
   
 # Link to a PDF of your resume/CV from the About widget.
@@ -71,8 +69,7 @@ highlight_name: true
 
 
 ---
-Suhail Kamal is a lecturer in the Department of Information Technology in the Faculty of Computer Science and Information Technology, BUK. He obtained his bachelor's and master's degree in 2011 and 2014,  respectively. He is currently a PhD student in Computer Science and Technology in Xiamen University, China. His research interests include Sign Language Recognition and Translation.
-
+Dr Garba Mousa is a ...
 <style>
 body {
 text-align: justify}
