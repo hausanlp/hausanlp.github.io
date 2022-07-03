@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Garba Mousa (PhD)
+title: Dr. Moussa Garba 
 
 # Username (this should match the folder name)
 authors:
@@ -10,19 +10,19 @@ authors:
 superuser: false
 
 # Role/position
-role: Founder, Hackerthon Hausa Africa
+role: Founder, Hausa Hackathon Africa
 
 # Organizations/Affiliations
 organizations:
-- name: Hackthon Hausa Africa
+- name: Hausa Hackathon Africa
   url: "https://www.linkedin.com/company/hackathon-hausa-africa/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Machine Learning
-- Data Science
+#interests:
+#- Machine Learning
+#- Data Science
 
 #education:      
 #  courses: 
@@ -69,7 +69,16 @@ highlight_name: true
 
 
 ---
-Dr Garba Mousa is a ...
+
+Dr. Moussa Garba is a data scientist and machine learning specialist with brilliant expertise in mentoring and career development. After completing his Ph.D. in Economics and Statistics from the University of Nice Sofia Antipolis, France, he proceeded with a Post Ph.D. program in Computing & Data Science at the Université of Aix Marseilles France.  
+
+His core areas of interest are data mining, data analytics, NLP, ML, and SDGs. He's such a person who likes the challenges of growing start-ups, especially in Africa, and currently leading projects related to product development using data and combining ML and causal inference to create new methods of learning and teaching in Africa through local languages. 
+ With more than eleven years of experience, Dr. Moussa has conducted and led several machine learning and natural language processing projects in and outside Africa.
+
+In 2019, he founded the Hausa Hackathon Africa organization, an international platform advocating the introduction of digital in education, health, and youth employability in Africa.
+He also regularly writes and publishes articles on the stake of digitization in Africa and holds seminars, conferences as well as youth empowerment summit virtually and on-site in Niger, Nigeria, France etc.
+
+
 <style>
 body {
 text-align: justify}
