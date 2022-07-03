@@ -86,7 +86,7 @@ show_related = {post = true, project = true, publication = true, talk = true}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "buknlp@buk.edu.ng"
+email = "shmuhammad.csc@buk.edu.ng"
 phone = "+234 8039 6472 91"
 
 # Address

@@ -7,7 +7,7 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 19
+weight: 21
 
 title: Meet the Team
 subtitle:
