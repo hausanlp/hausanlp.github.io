@@ -24,10 +24,9 @@ bio: My research interests include Machine Learning, NLP and Low-resource NLP.
 
 interests:
 - Sentiment Analysis
-- Machine Learning
-- Data Science
+- Hate speech detection
 - Low-resource NLP
-
+- Data Science
 
 education:
   courses:
@@ -74,6 +73,13 @@ user_groups: ["Researchers"]
 
 Shamsuddeen Muhammad is a PhD candidate at the [MAPi Doctoral Program in Computer Science](https://mapi.map.edu.pt/pages/1), a joint Ph.D. program offered by the [University of Minho](https://www.uminho.pt/EN/Pages/default.aspx), the [University of Aveiro](https://www.ua.pt/#/), and the [University of Porto](https://sigarra.up.pt/up/en/WEB_BASE.GERA_PAGINA?p_pagina=home). He is also a researcher at the Laboratory of Artificial Intelligence and Decision Support [LIAAD-INESTEC](https://www.inesctec.pt/en#intro). His research interest focus on Machine Learning and Natural Language Processing. 
 He received his master’s degree from the University of Manchester, UK. He is also a faculty member at the Faculty of Computer Science and Information Technology, Bayero University, Kano-Nigeria. He loves reading and learning a new concept every day.
+
+
+> Visit my personal page for more info:
+
+
+{{< cta cta_text="personal website" cta_link="https://www.shmuhammad.com" cta_new_tab="false" >}}
+
 
 
 <style>
