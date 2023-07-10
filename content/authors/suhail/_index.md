@@ -5,7 +5,6 @@ title: Dr. Moussa Garba
 # Username (this should match the folder name)
 authors:
 - garba
-
 # Is this the primary user of the site?
 superuser: false
 
@@ -65,7 +64,7 @@ user_groups: ['Researchers']
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
-
+draft: true
 
 
 ---

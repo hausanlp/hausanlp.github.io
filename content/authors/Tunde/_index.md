@@ -67,7 +67,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups: ['Researchers']
-
+draft: true
 ---
 
 Tunde Ajayi is a graduate of the African Masters of Machine Intelligence (AMMI) programme. His research uses Natural Language Processing (NLP) to bridge communication, making artificial intelligence accessible to everyone.
