@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Musa Abdullahi Dawud | HausaNLP Research Group</title>
+    <link>https://hausanlp.github.io/author/musa-abdullahi-dawud/</link>
+      <atom:link href="https://hausanlp.github.io/author/musa-abdullahi-dawud/index.xml" rel="self" type="application/rss+xml" />
+    <description>Musa Abdullahi Dawud</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© HausaNLP Research Group. Site maintained by Shamsuddeen Muhammad</copyright><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hausanlp.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Musa Abdullahi Dawud</title>
+      <link>https://hausanlp.github.io/author/musa-abdullahi-dawud/</link>
+    </image>
+    
+    <item>
+      <title>Hausa Visual Genome: A Dataset for Multi-Modal English to Hausa Machine Translation</title>
+      <link>https://hausanlp.github.io/publication/abdulmumin-et-al-2022-lrec/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://hausanlp.github.io/publication/abdulmumin-et-al-2022-lrec/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
