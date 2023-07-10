@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Taiwo Fagbohungbe | HausaNLP Research Group</title>
+    <link>https://hausanlp.github.io/author/taiwo-fagbohungbe/</link>
+      <atom:link href="https://hausanlp.github.io/author/taiwo-fagbohungbe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Taiwo Fagbohungbe</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© HausaNLP Research Group. Site maintained by Shamsuddeen Muhammad</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hausanlp.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Taiwo Fagbohungbe</title>
+      <link>https://hausanlp.github.io/author/taiwo-fagbohungbe/</link>
+    </image>
+    
+    <item>
+      <title>Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages</title>
+      <link>https://hausanlp.github.io/publication/nekoto-2020-participatory/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hausanlp.github.io/publication/nekoto-2020-participatory/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

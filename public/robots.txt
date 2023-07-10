@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://hausanlp.github.io/sitemap.xml

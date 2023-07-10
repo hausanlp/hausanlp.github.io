@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest Posts | HausaNLP Research Group</title>
+    <link>https://hausanlp.github.io/post/</link>
+      <atom:link href="https://hausanlp.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Latest Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© HausaNLP Research Group. Site maintained by Shamsuddeen Muhammad</copyright><lastBuildDate>Sun, 17 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://hausanlp.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Latest Posts</title>
+      <link>https://hausanlp.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>HausaNLP Research Group got funding from Lacuna Fund.</title>
+      <link>https://hausanlp.github.io/post/hausanlp-lacuna-grant/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://hausanlp.github.io/post/hausanlp-lacuna-grant/</guid>
+      <description>
+&lt;script src=&#34;https://hausanlp.github.io/post/hausanlp-lacuna-grant/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;The HausaNLP proposal called SentiNaija is one of the selected projects in the &lt;a href=&#34;https://lacunafund.org/language-2020-awards/&#34;&gt;Lacuna Language 2020 Awards&lt;/a&gt;, an action promoted by Lacuna Fund, the first collaborative initiative in the world dedicated to providing the resources that data scientists, researchers, and social entrepreneurs need to produce labelled datasets in order to address the main issues within their communities.&lt;/p&gt;
+&lt;p&gt;The main goal of the project is to promote global digital inclusion by producing the first high-quality open datasets with manual annotations, gathered from content included on digital platforms and written in the three main Nigerian languages: Hausa, Igbo, Yoruba, and Pidgin. These datasets are important for natural language processing tasks such as sentiment and emotion analysis, as well as the detection of hate speech and fake news.&lt;/p&gt;
+&lt;p&gt;Languages spoken in Africa have few language resources, and those that do exist are insufficient, e.g., datasets for important artificial intelligence (AI) tasks. This project will play a key role in the development of information for African languages, encouraging the growth and dissemination of AI research in these locations and benefiting from these datasets.Find out more about the project &lt;a href=&#34;https://github.com/hausanlp/sentiNaija&#34;&gt;on the preject Github page&lt;/a&gt;&lt;/p&gt;
+&lt;style&gt;
+body {
+text-align: justify}
+&lt;/style&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sentiment Corpus Generation in Low Resource Language A bumpy Journey</title>
+      <link>https://hausanlp.github.io/post/building_sentiment_corpus/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://hausanlp.github.io/post/building_sentiment_corpus/</guid>
+      <description>
+&lt;script src=&#34;https://hausanlp.github.io/post/building_sentiment_corpus/index_files/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;div id=&#34;introduction&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Sentiment analysis (SA) is one of the most trending research areas in Artificial Intelligence (AI). Sentiment analysis is a technique used to identify the sentiments contained in natural language, which is mostly shared on social media platforms. A lot has been achieved in sentiment analysis research, focusing mostly on Rich-Resource Languages like English, German, and Arabic. However, there is little research on many Low Resources Languages. Consequently, we embarked on a mission to promote research on SA in languages spoken in Nigeria, which are all low resources languages. Our research was found worthy by Lacuna Fund, and they supported our team to develop sentiment corpus, sentiment lexicon, and hate speech lexicon for Hausa, Yoruba, and Igbo languages. These are important resources required in sentiment analysis in any language. The project is ongoing, notwithstanding, this article summarizes some of the challenges we faced in the study.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;data-acquisition&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Data Acquisition&lt;/h2&gt;
+&lt;p&gt;In sentiment analysis, extracting data is very crucial and is often considered as one of the least challenging stage. This is because there are several tools, packages, and libraries to extract and preprocess the data from social media platforms like Twitter and Facebook. However, that’s not the case in many low resource languages.
+The first challenge we faced in data extraction is, Twitter does not have language codes for Hausa, Yoruba, and Igbo and so,[d] extraction tweets in these languages based on language code is impossible. Again, the location code can also not be used because multiple languages are used all over the country. Consequently, we had to crawl the tweets using distant supervision and via the use of stop words. The stop word list is also not available in the languages, we had to devise a methodology, and generated stop words for the languages.
+Despite all the above, a lot of preprocessing was done to filter out tweets that are not in the target languages. In conclusion, data extraction in low resource languages is possible despite insufficiency of standard methods for the extraction. Each language is unique and appropriate methods should be devised to fit the purpose.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;annotation-tools&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Annotation Tools&lt;/h2&gt;
+&lt;p&gt;Annotating text means adding meta-data to text, like semantics or sentiments. A good way for the AI to learn and understand nuances is through human annotations. Annotation is used to create datasets for natural language processing. The texts are either annotated or labeled with the purpose to mak the keywords or important words comprehensible to machines, and helping them to respond in the same way. We can either annotate an entire body of text into a class, called classification or annotate a specific word (s) called tagging.
+Text annotation can easily be done in spreadsheet software like MS Excel; however, the process becomes tedious when the amount of data to annotate is large. Other limitations are spreadsheets are not convenient for multiuser annotation or calculating Inter Annotator Agreement (IAA). Consequently, it is more efficient to use specialized tools for the text annotation. However, most of the tools available (both free and paid) are in the development stage with obvious bugs. We tried over five tools and all of them have one problem or the other. The tool that we finally settled on comes near to perfection, but the review option is not working, and so the annotation texts cannot be reviewed in the tool.
+The challenge of choosing an annotation tool came as a shock to us, because during our preliminary study, we saw a lot of good options but upon using the tools, we found out that most of the developers are over-selling the capabilities of their tools. In conclusion, when choosing an annotation tool, it’s good to thoroughly explore the tool and try their functionality early to see if they fit your use-case.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;annotation-guideline-and-annotation-training&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Annotation Guideline and Annotation Training&lt;/h2&gt;
+&lt;p&gt;Annotation is mostly done by multiple annotators, preparable odd numbers, typically three to five in number. Therefore, it is crucial to develop an annotation guideline to aid the annotators. An effective annotation guideline helps annotators to understand clearly what is expected of them and have accurate annotation. In rich resource languages, this stage is fairly straightforward. There are several annotation guidelines available in the literature and research are quite familiar with annotation in the languages. However, because of the peculiarities of each language, the existing annotation guidelines will not serve the purpose. Additionally, due to the insufficiency of researchers working on low resource languages, getting annotators that can accurately annotate texts in low resource languages is quite difficult. Several rounds of training and retraining is required to prepare the annotators and ensure a high inter annotator agreement.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&#34;conclusion&#34; class=&#34;section level2&#34;&gt;
+&lt;h2&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;There are several potentials and benefits to sentiment analysis research in low resource languages. Despite the several challenges, these challenges are opportunities for novel studies.&lt;/p&gt;
+&lt;style&gt;
+body {
+text-align: justify}
+&lt;/style&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
