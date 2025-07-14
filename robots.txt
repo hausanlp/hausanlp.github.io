@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://lazy-monster.github.io/sitemap.xml
+Sitemap: https://hausanlp.github.io/sitemap.xml
