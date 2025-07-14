@@ -1,0 +1,1 @@
+Lecturer in Information Technology at Bayero University,Kano (BUK)
