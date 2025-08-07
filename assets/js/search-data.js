@@ -64,16 +64,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-our-semeval-task-semeval-2025-task-11-bridging-the-gap-in-text-based-emotion-detection-has-been-awarded-the-best-semeval2025-task-award-at-acl-2025",
+          title: 'Our SemEval task “SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection”...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-the-news-feature-was-activated-if-you-re-seeing-this-it-worked",
-          title: 'The news feature was activated. If you’re seeing this, it worked.',
+          section: "News",},{id: "news-our-paper-brighter-bridging-the-gap-in-human-annotated-textual-emotion-recognition-datasets-for-28-languages-has-been-awarded-the-best-resource-award-at-acl-2025-see-the-project-page-for-more-details",
+          title: 'Our paper “BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for...',
           description: "",
           section: "News",},{id: "people-ahmadu-shehu",
           title: 'Ahmadu Shehu',
