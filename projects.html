@@ -1,106 +1,245 @@
-<!DOCTYPE HTML>
-<html>
-    <head>
-        <title>Projects - HausaNLP</title>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-        <link rel="stylesheet" href="assets/css/main.css" />
-        <link rel="stylesheet" href="assets/css/hausanlp.css" />
-        <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
-    </head>
-    <body class="is-preload">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Projects &amp; Datasets — HausaNLP</title>
+  <link rel="icon" type="image/svg+xml" href="images/hausanlp-icon.svg">
+  <link rel="apple-touch-icon" href="images/hausanlp-icon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/site.css" />
+</head>
+<body>
 
-        <!-- Mobile Menu Toggle -->
-        <div id="navToggle">
-            <span></span>
-            <span></span>
-            <span></span>
+<nav id="navbar">
+  <a href="index.html" class="nav-logo"><img src="images/hausanlp-logo.svg" alt="HausaNLP" height="36"></a>
+  <ul class="nav-links" id="navLinks">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="research.html">Research</a></li>
+    <li><a href="publications.html">Publications</a></li>
+    <li><a href="projects.html" class="active">Projects</a></li>
+    <li><a href="team.html">Team</a></li>
+    <li><a href="news.html">News</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="contact.html" class="nav-cta">Contact</a></li>
+  </ul>
+  <button class="nav-hamburger" id="hamburger" aria-label="Toggle menu"><span></span><span></span><span></span></button>
+</nav>
+
+<section class="page-hero">
+  <div class="container">
+    <div class="page-hero-tag">Projects &amp; Datasets</div>
+    <h1>Open Resources</h1>
+    <p>Datasets, tools and GitHub repositories built by HausaNLP for the research community.</p>
+  </div>
+</section>
+
+<div class="kente-divider"></div>
+
+<section class="section section-green">
+  <div class="container">
+    <div class="section-header fade-up">
+      <div class="section-tag">HuggingFace</div>
+      <h2 class="section-title">Datasets on HuggingFace</h2>
+      <p class="section-subtitle">Freely available datasets for training and evaluating NLP systems on African languages.</p>
+    </div>
+    <div class="grid-3">
+
+      <div class="dataset-card fade-up">
+        <div class="dataset-name">AfriSenti-Twitter</div>
+        <p class="dataset-desc">Multilingual Twitter sentiment corpus covering African languages. Used in SemEval-2023 Task 12.</p>
+        <a href="https://huggingface.co/datasets/HausaNLP/AfriSenti-Twitter" class="dataset-link" target="_blank" rel="noopener">View on HuggingFace &rarr;</a>
+      </div>
+
+      <div class="dataset-card fade-up">
+        <div class="dataset-name">NaijaSenti-Twitter</div>
+        <p class="dataset-desc">Nigerian Twitter sentiment for Hausa, Yoruba, Igbo and Pidgin. Lacuna Fund supported.</p>
+        <a href="https://huggingface.co/datasets/HausaNLP/NaijaSenti-Twitter" class="dataset-link" target="_blank" rel="noopener">View on HuggingFace &rarr;</a>
+      </div>
+
+      <div class="dataset-card fade-up">
+        <div class="dataset-name">HausaVG</div>
+        <p class="dataset-desc">Hausa Visual Genome for multi-modal English-to-Hausa machine translation, created by professional translators at BUK.</p>
+        <a href="https://huggingface.co/datasets/HausaNLP/HausaVG" class="dataset-link" target="_blank" rel="noopener">View on HuggingFace &rarr;</a>
+      </div>
+
+      <div class="dataset-card fade-up">
+        <div class="dataset-name">HausaVQA</div>
+        <p class="dataset-desc">Visual question answering dataset for Hausa — enabling vision-language research in low-resource settings.</p>
+        <a href="https://huggingface.co/datasets/HausaNLP/HausaVQA" class="dataset-link" target="_blank" rel="noopener">View on HuggingFace &rarr;</a>
+      </div>
+
+      <div class="dataset-card fade-up">
+        <div class="dataset-name">Naija-Lex</div>
+        <p class="dataset-desc">Lexical resource for Nigerian languages supporting morphological analysis and sentiment lexicons.</p>
+        <a href="https://huggingface.co/datasets/HausaNLP/Naija-Lex" class="dataset-link" target="_blank" rel="noopener">View on HuggingFace &rarr;</a>
+      </div>
+
+      <div class="dataset-card fade-up">
+        <div class="dataset-name">Naija-Stopwords</div>
+        <p class="dataset-desc">Curated stopword list for Nigerian languages for text preprocessing.</p>
+        <a href="https://huggingface.co/datasets/HausaNLP/Naija-Stopwords" class="dataset-link" target="_blank" rel="noopener">View on HuggingFace &rarr;</a>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<div class="kente-divider"></div>
+
+<section class="section section-alt">
+  <div class="container">
+    <div class="section-header fade-up">
+      <div class="section-tag">GitHub</div>
+      <h2 class="section-title">GitHub Repositories</h2>
+      <p class="section-subtitle">Open-source code, datasets and tools from the HausaNLP organisation on GitHub.</p>
+    </div>
+    <div class="grid-3">
+
+      <div class="theme-card fade-up">
+        <div class="theme-icon">📂</div>
+        <div class="theme-title">hausanlp.github.io</div>
+        <p class="theme-desc">Organisation website repository — the source code for this site.</p>
+        <div class="theme-tags">
+          <a href="https://github.com/hausanlp/hausanlp.github.io" target="_blank" rel="noopener" class="tag" style="text-decoration:none;">GitHub &#8599;</a>
         </div>
+      </div>
 
-        <!-- Sidebar -->
-        <section id="sidebar">
-            <div class="inner">
-                <nav>
-                    <ul>
-                        <li><a href="index.html">Home</a></li>
-                        <li><a href="team.html">Team</a></li>
-                        <li><a href="research.html">Research</a></li>
-                        <li><a href="projects.html" class="active">Projects</a></li>
-                        <li><a href="publications.html">Publications</a></li>
-                        <li><a href="about.html">About</a></li>
-                        <li><a href="contact.html">Contact</a></li>
-                    </ul>
-                </nav>
-            </div>
-        </section>
-
-        <!-- Wrapper -->
-        <div id="wrapper">
-
-            <!-- Header -->
-            <section id="intro" class="wrapper style1-alt fade-up">
-                <div class="inner">
-                    <h1>Our Projects</h1>
-                    <p>Explore our projects advancing AI technology for Hausa and other African languages.<p>
-                </div>
-            </section>
-
-            <!-- Projects List -->
-            <section class="wrapper style1 fade-up">
-                <div class="inner">
-                    <div class="features">
-
-                        <!-- Project 1 -->
-                        <section>
-                            <span class="icon solid major fa-language"></span>
-                            <h3>Hausa Multimodal Machine Translation</h3>
-                            <img src="assets/img/hausatranslation.jpg" alt="Hausa Multimodal Machine Translation" style="width:100%;max-width:320px;border-radius:0.5em;margin-bottom:1em;">
-                            <p>
-                                For more information about this project, visit the project
-                                <a href="https://github.com/hausanlp/HausaVisualGenome" target="_blank">Github page</a>.
-                            </p>
-                            <p>
-                                <a href="publications.html" class="button small">Related Publications</a>
-                            </p>
-                        </section>
-
-                        <!-- Project 2 -->
-                        <section>
-                            <span class="icon solid major fa-comments"></span>
-                            <h3>Development of Nigerian Twitter Sentiment Corpus</h3>
-                            <img src="assets/img/twitter sentiment corpus.jpg" alt="NaijaSenti: Nigerian Twitter Sentiment Corpus" style="width:100%;max-width:320px;border-radius:0.5em;margin-bottom:1em;">
-                            <p>
-                                NaijaSenti is a <a href="https://lacunafund.org/language-2020-awards/" target="_blank">Lacuna funded</a> project for the development of sentiment corpus for four Nigerian languages (Hausa, Igbo, Yoruba and Pidgin). Visit the project Github page for more information <a href="https://github.com/hausanlp/NaijaSenti" target="_blank">here</a>.
-                            </p>
-                            <p>
-                                <a href="publications.html" class="button small">Related Publications</a>
-                            </p>
-                        </section>
-
-                    </div>
-                </div>
-            </section>
-
+      <div class="theme-card fade-up">
+        <div class="theme-icon">📂</div>
+        <div class="theme-title">NaijaSenti</div>
+        <p class="theme-desc">Nigerian sentiment corpus data and code for multi-language sentiment analysis.</p>
+        <div class="theme-tags">
+          <a href="https://github.com/hausanlp/NaijaSenti" target="_blank" rel="noopener" class="tag" style="text-decoration:none;">GitHub &#8599;</a>
         </div>
+      </div>
 
-        <!-- Footer -->
-        <footer id="footer" class="wrapper style1-alt">
-            <div class="inner">
-                <ul class="menu">
-                    <li>&copy; 2025 HausaNLP. All rights reserved.</li><li>Advancing NLP for African Languages</li>
-                </ul>
-            </div>
-        </footer>
+      <div class="theme-card fade-up">
+        <div class="theme-icon">📂</div>
+        <div class="theme-title">AfriSenti-LID</div>
+        <p class="theme-desc">Language identification for AfriSenti — detecting language in multilingual African social media text.</p>
+        <div class="theme-tags">
+          <a href="https://github.com/hausanlp/AfriSenti-LID" target="_blank" rel="noopener" class="tag" style="text-decoration:none;">GitHub &#8599;</a>
+        </div>
+      </div>
 
-        <!-- Scripts -->
-        <script src="assets/js/jquery.min.js"></script>
-        <script src="assets/js/jquery.scrollex.min.js"></script>
-        <script src="assets/js/jquery.scrolly.min.js"></script>
-        <script src="assets/js/browser.min.js"></script>
-        <script src="assets/js/breakpoints.min.js"></script>
-        <script src="assets/js/util.js"></script>
-        <script src="assets/js/main.js"></script>
-        <script src="assets/js/hausanlp.js"></script>
-    </body>
+      <div class="theme-card fade-up">
+        <div class="theme-icon">📂</div>
+        <div class="theme-title">HERDPhobia</div>
+        <p class="theme-desc">Hate speech detection against Fulani Herdsmen dataset for low-resource hate speech research.</p>
+        <div class="theme-tags">
+          <a href="https://github.com/hausanlp/HERDPhobia" target="_blank" rel="noopener" class="tag" style="text-decoration:none;">GitHub &#8599;</a>
+        </div>
+      </div>
+
+      <div class="theme-card fade-up">
+        <div class="theme-icon">📂</div>
+        <div class="theme-title">hausanlp-catalogue</div>
+        <p class="theme-desc">The HausaNLP Catalogue source — a centralised hub of Hausa NLP datasets, tools and papers.</p>
+        <div class="theme-tags">
+          <a href="https://github.com/hausanlp/hausanlp-catalogue" target="_blank" rel="noopener" class="tag" style="text-decoration:none;">GitHub &#8599;</a>
+        </div>
+      </div>
+
+      <div class="theme-card fade-up">
+        <div class="theme-icon">📂</div>
+        <div class="theme-title">all-words-in-all-languages</div>
+        <p class="theme-desc">Multilingual word lists resource supporting vocabulary and lexical research across languages.</p>
+        <div class="theme-tags">
+          <a href="https://github.com/hausanlp" target="_blank" rel="noopener" class="tag" style="text-decoration:none;">GitHub &#8599;</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<section class="section section-white">
+  <div class="container">
+    <div class="section-header fade-up">
+      <div class="section-tag">Ecosystem</div>
+      <h2 class="section-title">Related Initiatives</h2>
+      <p class="section-subtitle">Sister projects and community platforms built and supported by the HausaNLP team.</p>
+    </div>
+    <div class="grid-2">
+
+      <div class="theme-card fade-up">
+        <div class="theme-icon">🎓</div>
+        <div class="theme-title">Arewa Data Science Academy</div>
+        <p class="theme-desc">Free 16-week AI and machine learning fellowship for underserved students in Northern Nigeria. Co-founded by the same team as HausaNLP, this initiative has trained hundreds of fellows across multiple cohorts.</p>
+        <div class="theme-tags">
+          <a href="https://arewadatascience.github.io/" target="_blank" rel="noopener" class="tag" style="text-decoration:none;">Visit Site &#8599;</a>
+        </div>
+      </div>
+
+      <div class="theme-card fade-up">
+        <div class="theme-icon">📚</div>
+        <div class="theme-title">HausaNLP Catalogue</div>
+        <p class="theme-desc">Centralised hub of all Hausa NLP datasets, tools and papers — the go-to reference for anyone working on Hausa language technology. Continuously updated by the community.</p>
+        <div class="theme-tags">
+          <a href="https://catalog.hausanlp.org/" target="_blank" rel="noopener" class="tag" style="text-decoration:none;">Visit Catalogue &#8599;</a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</section>
+
+<footer id="footer">
+  <div class="footer-inner">
+    <div class="footer-top">
+      <div>
+        <div class="footer-brand-name"><span></span>HausaNLP</div>
+        <p class="footer-tagline">An open community of researchers advancing natural language processing for Hausa and African languages.</p>
+        <div class="footer-social">
+          <a href="https://github.com/hausanlp" target="_blank" rel="noopener" class="social-link">GH</a>
+          <a href="https://huggingface.co/HausaNLP" target="_blank" rel="noopener" class="social-link">HF</a>
+          <a href="https://twitter.com/HausaNLP" target="_blank" rel="noopener" class="social-link">X</a>
+        </div>
+      </div>
+      <div>
+        <div class="footer-col-title">Research</div>
+        <ul class="footer-links">
+          <li><a href="research.html">Research Areas</a></li>
+          <li><a href="publications.html">Publications</a></li>
+          <li><a href="projects.html">Projects &amp; Datasets</a></li>
+          <li><a href="https://catalog.hausanlp.org/" target="_blank" rel="noopener">HausaNLP Catalogue</a></li>
+        </ul>
+      </div>
+      <div>
+        <div class="footer-col-title">Community</div>
+        <ul class="footer-links">
+          <li><a href="team.html">Team</a></li>
+          <li><a href="news.html">News &amp; Blog</a></li>
+          <li><a href="https://arewadatascience.github.io/" target="_blank" rel="noopener">Arewa Data Science</a></li>
+          <li><a href="https://github.com/hausanlp" target="_blank" rel="noopener">GitHub</a></li>
+        </ul>
+      </div>
+      <div>
+        <div class="footer-col-title">Organisation</div>
+        <ul class="footer-links">
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="https://huggingface.co/HausaNLP" target="_blank" rel="noopener">HuggingFace</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; 2025 HausaNLP Research Group. All rights reserved.</span>
+      <span>Advancing NLP for African Languages</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+  const navbar = document.getElementById('navbar');
+  window.addEventListener('scroll', () => navbar.classList.toggle('scrolled', window.scrollY > 10), {passive:true});
+  document.getElementById('hamburger').addEventListener('click', () => document.getElementById('navLinks').classList.toggle('open'));
+  const obs = new IntersectionObserver(entries => entries.forEach(e => { if(e.isIntersecting){ e.target.classList.add('visible'); obs.unobserve(e.target); }}), {threshold:.1});
+  document.querySelectorAll('.fade-up').forEach(el => obs.observe(el));
+</script>
+
+</body>
 </html>

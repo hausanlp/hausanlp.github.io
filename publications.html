@@ -1,574 +1,546 @@
-<!DOCTYPE HTML>
-<html>
-	<head>
-		<title>Publications - HausaNLP</title>
-		<meta charset="utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<link rel="stylesheet" href="assets/css/hausanlp.css" />
-		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
-		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
-	</head>
-	<body class="is-preload">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Publications — HausaNLP</title>
+  <link rel="icon" type="image/svg+xml" href="images/hausanlp-icon.svg">
+  <link rel="apple-touch-icon" href="images/hausanlp-icon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600;700&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="assets/css/site.css" />
+</head>
+<body>
 
-		<!-- Mobile Menu Toggle -->
-		<div id="navToggle">
-			<span></span>
-			<span></span>
-			<span></span>
-		</div>
+<nav id="navbar">
+  <a href="index.html" class="nav-logo"><img src="images/hausanlp-logo.svg" alt="HausaNLP" height="36"></a>
+  <ul class="nav-links" id="navLinks">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="research.html">Research</a></li>
+    <li><a href="publications.html" class="active">Publications</a></li>
+    <li><a href="projects.html">Projects</a></li>
+    <li><a href="team.html">Team</a></li>
+    <li><a href="news.html">News</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="contact.html" class="nav-cta">Contact</a></li>
+  </ul>
+  <button class="nav-hamburger" id="hamburger" aria-label="Toggle menu"><span></span><span></span><span></span></button>
+</nav>
 
-		<!-- Sidebar -->
-		<section id="sidebar">
-			<div class="inner">
-				<nav>
-					<ul>
-						<li><a href="index.html">Home</a></li>
-                        <li><a href="team.html">Team</a></li>
-						<li><a href="research.html">Research</a></li>
-                        <li><a href="projects.html">Projects</a></li>
-						<li><a href="publications.html" class="active">Publications</a></li>
-						<li><a href="about.html">About</a></li>
-						<li><a href="contact.html">Contact</a></li>
-					</ul>
-				</nav>
-			</div>
-		</section>
+<section class="page-hero">
+  <div class="container">
+    <div class="page-hero-tag">Publications</div>
+    <h1>Our Research Papers</h1>
+    <p>36+ peer-reviewed papers at ACL, EMNLP, NAACL, COLING and beyond — 2020 to 2025.</p>
+  </div>
+</section>
 
-		<!-- Wrapper -->
-		<div id="wrapper">
+<div class="kente-divider"></div>
 
-			<!-- Header -->
-			<section id="intro" class="wrapper style1-alt fade-up">
-				<div class="inner">
-					<h1>Publications</h1>
-					<p>Our research contributions to Hausa natural language processing and African language technologies.</p>
-				</div>
-			</section>
+<section class="section section-white">
+  <div class="container">
 
-			<!-- Publication Controls and Stats -->
-			<section class="wrapper style1 fade-up">
-				<div class="inner">
-					<!-- Statistics Bar -->
-					<div class="stats-bar" id="statsBar" style="display: none;">
-						<div class="stats-item">
-							<span class="number" id="totalPapers">0</span>
-							<span class="label">Papers</span>
-						</div>
-						<div class="stats-item">
-							<span class="number" id="totalYears">0</span>
-							<span class="label">Years</span>
-						</div>
-						<div class="stats-item">
-							<span class="number" id="topVenues">0</span>
-							<span class="label">Venues</span>
-						</div>
-					</div>
+    <div class="fade-up" style="margin-bottom:2.5rem;">
+      <p style="max-width:700px;color:var(--text-secondary);font-size:1.05rem;line-height:1.75;">HausaNLP has contributed peer-reviewed research across major NLP venues from 2020 to 2025. Our papers span sentiment analysis, machine translation, named entity recognition, hate speech detection, multimodal NLP, and evaluation benchmarks for African languages.</p>
+    </div>
 
-					<!-- Filter Controls -->
-					<div class="filter-controls">
-						<div class="filter-row">
-							<div class="filter-group search-box">
-								<label for="searchInput">Search:</label>
-								<input type="text" id="searchInput" placeholder="Search titles, authors, venues..." />
-							</div>
-							<div class="filter-group">
-								<label for="yearFilter">Year:</label>
-								<select id="yearFilter">
-									<option value="">All Years</option>
-								</select>
-							</div>
-							<div class="filter-group">
-								<label for="typeFilter">Type:</label>
-								<select id="typeFilter">
-									<option value="">All Types</option>
-									<option value="article">Journal Articles</option>
-									<option value="inproceedings">Conference Papers</option>
-									<option value="incollection">Book Chapters</option>
-									<option value="phdthesis">PhD Theses</option>
-									<option value="mastersthesis">Master's Theses</option>
-									<option value="techreport">Technical Reports</option>
-								</select>
-							</div>
-							<div class="filter-group">
-								<label for="authorFilter">Author:</label>
-								<select id="authorFilter">
-									<option value="">All Authors</option>
-								</select>
-							</div>
-						</div>
-					</div>
+    <div class="grid-4 fade-up" style="margin-bottom:3.5rem;">
+      <div class="stat-card">
+        <div class="stat-number">36+</div>
+        <div class="stat-label">Papers</div>
+        <div class="stat-sublabel">peer-reviewed</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">2020–2025</div>
+        <div class="stat-label">Active Years</div>
+        <div class="stat-sublabel">of publication</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">Top 3</div>
+        <div class="stat-label">Venues</div>
+        <div class="stat-sublabel">ACL, EMNLP, NAACL</div>
+      </div>
+      <div class="stat-card">
+        <div class="stat-number">10+</div>
+        <div class="stat-label">Languages</div>
+        <div class="stat-sublabel">covered</div>
+      </div>
+    </div>
 
-					<!-- Loading Spinner -->
-					<div class="loading-spinner" id="loadingSpinner">
-						<div class="spinner"></div>
-						<p>Loading publications...</p>
-					</div>
+    <!-- FILTER BAR -->
+    <div class="pub-filter-bar fade-up" id="filterBar">
+      <div class="pub-filter-search-wrap">
+        <svg class="pub-search-icon" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="8.5" cy="8.5" r="5.5"/><line x1="13" y1="13" x2="18" y2="18"/>
+        </svg>
+        <input type="search" id="pubSearch" class="pub-search-input" placeholder="Search by title, topic, venue…" aria-label="Search publications" />
+        <button class="pub-search-clear" id="searchClear" aria-label="Clear search" style="display:none">&times;</button>
+      </div>
 
-					<!-- Publications Container -->
-					<div id="publicationsContainer"></div>
+      <div class="pub-filter-groups">
+        <div class="pub-filter-group">
+          <span class="pub-filter-label">Venue</span>
+          <div class="pub-filter-pills" id="venuePills" role="group" aria-label="Filter by venue">
+            <button class="pub-pill active" data-filter="venue" data-value="all">All</button>
+            <button class="pub-pill" data-filter="venue" data-value="acl">ACL</button>
+            <button class="pub-pill" data-filter="venue" data-value="naacl">NAACL</button>
+            <button class="pub-pill" data-filter="venue" data-value="emnlp">EMNLP</button>
+            <button class="pub-pill" data-filter="venue" data-value="lrec">LREC</button>
+            <button class="pub-pill" data-filter="venue" data-value="wmt">WMT</button>
+            <button class="pub-pill" data-filter="venue" data-value="semeval">SemEval</button>
+            <button class="pub-pill" data-filter="venue" data-value="other">Other</button>
+          </div>
+        </div>
 
-					<!-- No Results Message -->
-					<div class="no-results" id="noResults" style="display: none;">
-						<h3>No publications found</h3>
-						<p>Try adjusting your search criteria or filters.</p>
-					</div>
-				</div>
-			</section>
+        <div class="pub-filter-group">
+          <span class="pub-filter-label">Year</span>
+          <div class="pub-filter-pills" id="yearPills" role="group" aria-label="Filter by year">
+            <button class="pub-pill active" data-filter="year" data-value="all">All</button>
+            <button class="pub-pill" data-filter="year" data-value="2025">2025</button>
+            <button class="pub-pill" data-filter="year" data-value="2024">2024</button>
+            <button class="pub-pill" data-filter="year" data-value="2023">2023</button>
+            <button class="pub-pill" data-filter="year" data-value="2022">2022</button>
+            <button class="pub-pill" data-filter="year" data-value="2021">2021</button>
+            <button class="pub-pill" data-filter="year" data-value="2020">2020</button>
+          </div>
+        </div>
+      </div>
 
-		</div>
+      <div class="pub-filter-status">
+        <span id="pubCount" class="pub-count-text">Showing all 36 papers</span>
+        <button class="pub-reset-btn" id="resetFilters" style="display:none">Clear filters</button>
+      </div>
+    </div>
 
-		<!-- BibTeX Modal -->
-		<div id="bibtexModal" class="bibtex-modal">
-			<div class="bibtex-content">
-				<span class="bibtex-close">&times;</span>
-				<h2>BibTeX Citation</h2>
-				<div class="bibtex-code" id="bibtexCode"></div>
-				<div style="text-align: center; margin-top: 1em;">
-					<button class="button small" onclick="copyBibtex()">Copy to Clipboard</button>
-				</div>
-			</div>
-		</div>
+    <!-- NO RESULTS MESSAGE -->
+    <div class="pub-no-results" id="noResults" style="display:none">
+      <div class="pub-no-results-icon">🔍</div>
+      <div class="pub-no-results-msg">No papers match your filters</div>
+      <button class="btn btn-outline" onclick="resetAll()">Clear all filters</button>
+    </div>
 
-		<!-- Footer -->
-		<footer id="footer" class="wrapper style1-alt">
-			<div class="inner">
-				<ul class="menu">
-					<li>&copy; 2025 HausaNLP. All rights reserved.</li><li>Advancing NLP for African Languages</li>
-				</ul>
-			</div>
-		</footer>
+    <!-- 2025 -->
+    <div class="year-group fade-up" data-year-group="2025">
+      <div class="year-label">2025 <span class="year-count" data-year-total="13">13 papers</span></div>
+      <div class="papers-list">
 
-		<!-- Scripts -->
-		<script src="assets/js/jquery.min.js"></script>
-		<script src="assets/js/jquery.scrollex.min.js"></script>
-		<script src="assets/js/jquery.scrolly.min.js"></script>
-		<script src="assets/js/browser.min.js"></script>
-		<script src="assets/js/breakpoints.min.js"></script>
-		<script src="assets/js/util.js"></script>
-		<script src="assets/js/main.js"></script>
-		<script src="assets/js/hausanlp.js"></script>
+        <div class="paper-card" data-year="2025" data-venue="acl">
+          <span class="paper-venue venue-acl">ACL 2025</span>
+          <div class="paper-title">BRIGHTER: BRIdging the Gap in Human-Annotated Textual Emotion Recognition Datasets for 28 Languages</div>
+          <div class="paper-meta">Long Paper &mdash; <a href="https://aclanthology.org/2025.acl-long.436/" class="paper-link" target="_blank" rel="noopener">Read &rarr;</a></div>
+        </div>
 
-		<script>
-		// Publications data storage
-		let publicationsData = [];
-		let filteredData = [];
+        <div class="paper-card" data-year="2025" data-venue="acl">
+          <span class="paper-venue venue-acl">ACL 2025</span>
+          <div class="paper-title">INJONGO: A Multicultural Intent Detection and Slot-filling Dataset for 16 African Languages</div>
+          <div class="paper-meta">Long Paper &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
 
-		// Load and parse BibTeX file
-		async function loadPublications() {
-			try {
-				// Replace 'publications.bib' with your actual BibTeX file path
-				const response = await fetch('assets/data/publications.bib');
-				
-				if (!response.ok) {
-					throw new Error(`HTTP ${response.status}: ${response.statusText}`);
-				}
-				
-				const bibtexText = await response.text();
-				console.log('BibTeX file loaded, length:', bibtexText.length);
-				console.log('First 500 characters:', bibtexText.substring(0, 500));
-				
-				publicationsData = parseBibtex(bibtexText);
-				console.log('Parsed publications:', publicationsData.length);
-				
-				if (publicationsData.length === 0) {
-					throw new Error('No publications found in BibTeX file');
-				}
-				
-				filteredData = [...publicationsData];
-				
-				populateFilters();
-				updateStats();
-				displayPublications();
-				
-				document.getElementById('loadingSpinner').style.display = 'none';
-				document.getElementById('statsBar').style.display = 'block';
-			} catch (error) {
-				console.error('Error loading publications:', error);
-				document.getElementById('loadingSpinner').innerHTML = `
-					<p style="color: #ff6b6b;">Error loading publications: ${error.message}</p>
-					<p style="color: #9bf1ff; font-size: 0.9em;">Loading demo data instead...</p>
-				`;
-				
-				// Show demo data instead
-				setTimeout(loadDemoData, 2000);
-			}
-		}
+        <div class="paper-card" data-year="2025" data-venue="naacl">
+          <span class="paper-venue venue-naacl">NAACL 2025</span>
+          <div class="paper-title">AfriHate: A Multilingual Collection of Hate Speech and Abusive Language Datasets for African Languages</div>
+          <div class="paper-meta">Long Paper &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
 
-		// Demo data for preview
-		function loadDemoData() {
-			publicationsData = [
-				{
-					id: 'ibrahim2025hausabert',
-					type: 'inproceedings',
-					title: 'HausaBERT: A Pre-trained Language Model for Hausa Natural Language Processing',
-					authors: ['Ibrahim, A.', 'Mohammed, S.', 'Garba, M.'],
-					venue: 'Proceedings of ACL 2025',
-					year: '2025',
-					abstract: 'We introduce HausaBERT, the first large-scale pre-trained language model specifically designed for Hausa NLP tasks. Our model achieves state-of-the-art performance on downstream tasks including named entity recognition, part-of-speech tagging, and sentiment analysis.',
-					url: 'https://example.com/hausabert',
-					bibtex: '@inproceedings{ibrahim2025hausabert,\n  title={HausaBERT: A Pre-trained Language Model for Hausa Natural Language Processing},\n  author={Ibrahim, A. and Mohammed, S. and Garba, M.},\n  booktitle={Proceedings of ACL 2025},\n  year={2025}\n}'
-				},
-				{
-					id: 'garba2025transfer',
-					type: 'inproceedings',
-					title: 'Cross-lingual Transfer Learning for Low-resource African Languages: A Case Study of Hausa',
-					authors: ['Garba, M.', 'Aliyu, F.'],
-					venue: 'EMNLP 2025',
-					year: '2025',
-					abstract: 'This paper investigates cross-lingual transfer learning techniques for improving NLP performance on low-resource African languages, with Hausa as our primary case study.',
-					bibtex: '@inproceedings{garba2025transfer,\n  title={Cross-lingual Transfer Learning for Low-resource African Languages: A Case Study of Hausa},\n  author={Garba, M. and Aliyu, F.},\n  booktitle={EMNLP 2025},\n  year={2025}\n}'
-				},
-				{
-					id: 'sani2024dialect',
-					type: 'inproceedings',
-					title: 'Dialect Variation in Hausa Speech Recognition: Challenges and Solutions',
-					authors: ['Sani, H.', 'Umar, K.'],
-					venue: 'INTERSPEECH 2024',
-					year: '2024',
-					abstract: 'We address the challenge of dialect variation in Hausa automatic speech recognition by developing robust models that can handle multiple dialects effectively.',
-					bibtex: '@inproceedings{sani2024dialect,\n  title={Dialect Variation in Hausa Speech Recognition: Challenges and Solutions},\n  author={Sani, H. and Umar, K.},\n  booktitle={INTERSPEECH 2024},\n  year={2024}\n}'
-				}
-			];
-			
-			filteredData = [...publicationsData];
-			populateFilters();
-			updateStats();
-			displayPublications();
-			
-			document.getElementById('loadingSpinner').style.display = 'none';
-			document.getElementById('statsBar').style.display = 'block';
-		}
+        <div class="paper-card" data-year="2025" data-venue="naacl">
+          <span class="paper-venue venue-naacl">NAACL 2025</span>
+          <div class="paper-title">IrokoBench: A New Benchmark for African Languages in the Age of Large Language Models</div>
+          <div class="paper-meta">Long Paper &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
 
-		// Improved BibTeX parser
-		function parseBibtex(bibtexText) {
-			const entries = [];
-			
-			// Clean up the text
-			bibtexText = bibtexText.replace(/\r\n/g, '\n').replace(/\r/g, '\n');
-			
-			// More flexible regex to handle different BibTeX formats
-			const entryRegex = /@(\w+)\s*\{\s*([^,\s]+)\s*,?\s*([\s\S]*?)\n\s*\}/g;
-			
-			let match;
-			let entryCount = 0;
-			
-			while ((match = entryRegex.exec(bibtexText)) !== null) {
-				entryCount++;
-				const [fullMatch, type, id, content] = match;
-				
-				console.log(`Processing entry ${entryCount}:`, { type, id });
-				
-				const entry = {
-					id: id.trim(),
-					type: type.toLowerCase(),
-					bibtex: fullMatch
-				};
-				
-				// Parse fields - handle multiple formats
-				const fieldPatterns = [
-					/(\w+)\s*=\s*\{([^{}]*(?:\{[^{}]*\}[^{}]*)*)\}/g, // Nested braces
-					/(\w+)\s*=\s*"([^"]*(?:\\.[^"]*)*)"/g,            // Double quotes
-					/(\w+)\s*=\s*([^,\n]+?)(?=,|\n|\s*\})/g         // Simple values
-				];
-				
-				for (const pattern of fieldPatterns) {
-					let fieldMatch;
-					while ((fieldMatch = pattern.exec(content)) !== null) {
-						const [, key, value] = fieldMatch;
-						if (!entry[key.toLowerCase()]) {
-							entry[key.toLowerCase()] = value.trim();
-						}
-					}
-				}
-				
-				// Process authors - handle different formats
-				if (entry.author) {
-					// Handle "and" separated authors
-					if (entry.author.includes(' and ')) {
-						entry.authors = entry.author.split(' and ').map(author => author.trim());
-					} else {
-						// Handle comma-separated authors as fallback
-						entry.authors = entry.author.split(',').map(author => author.trim());
-					}
-				}
-				
-				// Set venue based on type and available fields
-				if (entry.booktitle) {
-					entry.venue = entry.booktitle;
-				} else if (entry.journal) {
-					entry.venue = entry.journal;
-				} else if (entry.school) {
-					entry.venue = entry.school;
-				} else if (entry.institution) {
-					entry.venue = entry.institution;
-				} else if (entry.publisher) {
-					entry.venue = entry.publisher;
-				}
-				
-				// Ensure we have at least a title
-				if (entry.title || entry.id) {
-					entries.push(entry);
-					console.log(`Successfully parsed entry:`, entry);
-				} else {
-					console.warn(`Skipping entry with no title:`, entry);
-				}
-			}
-			
-			console.log(`Total entries parsed: ${entries.length} out of ${entryCount} found`);
-			
-			// Sort by year (descending) then by title
-			return entries.sort((a, b) => {
-				const yearA = parseInt(a.year) || 0;
-				const yearB = parseInt(b.year) || 0;
-				const yearDiff = yearB - yearA;
-				return yearDiff !== 0 ? yearDiff : (a.title || '').localeCompare(b.title || '');
-			});
-		}
+        <div class="paper-card" data-year="2025" data-venue="emnlp">
+          <span class="paper-venue venue-emnlp">EMNLP 2025</span>
+          <div class="paper-title">AfroXLMR-Social: Adapting Pre-trained Language Models for African Languages Social Media Text</div>
+          <div class="paper-meta">Findings &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
 
-		// Populate filter dropdowns
-		function populateFilters() {
-			const years = [...new Set(publicationsData.map(p => p.year).filter(Boolean))].sort((a, b) => b - a);
-			
-			// Process authors to handle name variations
-			const allAuthors = publicationsData.flatMap(p => p.authors || []);
-			const uniqueAuthors = new Map();
-			
-			allAuthors.forEach(author => {
-				// Normalize author name for comparison
-				const normalized = normalizeAuthorName(author);
-				if (!uniqueAuthors.has(normalized)) {
-					uniqueAuthors.set(normalized, author);
-				}
-			});
-			
-			const authors = Array.from(uniqueAuthors.values()).sort();
-			
-			const yearSelect = document.getElementById('yearFilter');
-			years.forEach(year => {
-				const option = document.createElement('option');
-				option.value = year;
-				option.textContent = year;
-				yearSelect.appendChild(option);
-			});
-			
-			const authorSelect = document.getElementById('authorFilter');
-			authors.forEach(author => {
-				const option = document.createElement('option');
-				option.value = author;
-				option.textContent = author;
-				authorSelect.appendChild(option);
-			});
-		}
+        <div class="paper-card" data-year="2025" data-venue="emnlp">
+          <span class="paper-venue venue-emnlp">EMNLP 2025</span>
+          <div class="paper-title">AFRIDOC-MT: Document-level MT Corpus for African Languages</div>
+          <div class="paper-meta">Main &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
 
-		// Normalize author names for comparison (handles "Last, First" vs "First Last")
-		function normalizeAuthorName(name) {
-			// Remove extra spaces and convert to lowercase
-			const cleaned = name.trim().toLowerCase();
-			
-			// Split by comma if present
-			if (cleaned.includes(',')) {
-				const parts = cleaned.split(',').map(part => part.trim());
-				// Return "first last" format
-				return parts.reverse().join(' ');
-			}
-			
-			return cleaned;
-		}
+        <div class="paper-card" data-year="2025" data-venue="semeval">
+          <span class="paper-venue venue-semeval">SemEval-2025</span>
+          <div class="paper-title">SemEval-2025 Task 11: Bridging the Gap in Text-Based Emotion Detection</div>
+          <div class="paper-meta">Task Overview &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
 
-		// Update statistics
-		function updateStats() {
-			const years = [...new Set(filteredData.map(p => p.year).filter(Boolean))];
-			const venues = [...new Set(filteredData.map(p => p.venue).filter(Boolean))];
-			
-			document.getElementById('totalPapers').textContent = filteredData.length;
-			document.getElementById('totalYears').textContent = years.length;
-			document.getElementById('topVenues').textContent = venues.length;
-		}
+        <div class="paper-card" data-year="2025" data-venue="semeval">
+          <span class="paper-venue venue-semeval">SemEval-2025</span>
+          <div class="paper-title">HausaNLP at SemEval-2025 Task 2: Entity-Aware Fine-tuning vs. Prompt Engineering</div>
+          <div class="paper-meta">System Description &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
 
-		// Display publications
-		function displayPublications() {
-			const container = document.getElementById('publicationsContainer');
-			const noResults = document.getElementById('noResults');
-			
-			if (filteredData.length === 0) {
-				container.innerHTML = '';
-				noResults.style.display = 'block';
-				return;
-			}
-			
-			noResults.style.display = 'none';
-			
-			// Group by year
-			const groupedByYear = filteredData.reduce((groups, pub) => {
-				const year = pub.year || 'Unknown';
-				if (!groups[year]) groups[year] = [];
-				groups[year].push(pub);
-				return groups;
-			}, {});
-			
-			const sortedYears = Object.keys(groupedByYear).sort((a, b) => {
-				if (a === 'Unknown') return 1;
-				if (b === 'Unknown') return -1;
-				return parseInt(b) - parseInt(a);
-			});
-			
-			let html = '';
-			sortedYears.forEach(year => {
-				const yearPublications = groupedByYear[year];
-				const expandedState = localStorage.getItem(`year-${year}-expanded`);
-				const isExpanded = expandedState === null || expandedState === 'true';
-				
-				html += `<div class="year-section">
-					<h2 class="year-header" onclick="toggleYear('${year}')">
-						<span>
-							${year}
-							<span class="year-count">(${yearPublications.length} ${yearPublications.length === 1 ? 'paper' : 'papers'})</span>
-						</span>
-						<span class="year-toggle" id="toggle-${year}">▼</span>
-					</h2>
-					<div class="year-content" id="content-${year}" ${!isExpanded ? 'class="collapsed"' : ''}>`;
-				
-				yearPublications.forEach(pub => {
-					html += createPublicationCard(pub);
-				});
-				
-				html += '</div></div>';
-			});
-			
-			container.innerHTML = html;
-		}
+        <div class="paper-card" data-year="2025" data-venue="semeval">
+          <span class="paper-venue venue-semeval">SemEval-2025</span>
+          <div class="paper-title">HausaNLP at SemEval-2025 Task 3: Towards a Fine-Grained Model-Aware Hallucination Detection</div>
+          <div class="paper-meta">System Description &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
 
-		// Create publication card HTML
-		function createPublicationCard(pub) {
-			const allAuthors = pub.authors || [];
-			const displayAuthors = allAuthors.length > 7 
-				? allAuthors.slice(0, 7).join(', ') + ', et al.'
-				: allAuthors.join(', ');
-			const searchAuthors = allAuthors.join(', ');
-			const abstractId = `abstract-${pub.id}`;
-			
-			return `
-				<div class="publication-item" data-year="${pub.year}" data-type="${pub.type}" data-authors="${searchAuthors.toLowerCase()}">
-					<div class="publication-title">${pub.title || 'Untitled'}</div>
-					<div class="publication-authors">${displayAuthors}</div>
-					${pub.venue ? `<div class="publication-venue">${pub.venue}</div>` : ''}
-					${pub.year ? `<div class="publication-year">${pub.year}</div>` : ''}
-					${pub.abstract ? `
-						<div class="publication-abstract" id="${abstractId}">
-							${pub.abstract}
-						</div>
-					` : ''}
-					<div class="publication-links">
-						${pub.abstract ? `<button class="button small" onclick="toggleAbstract('${abstractId}')">Abstract</button>` : ''}
-						<button class="button small" onclick="showBibtex('${pub.id}')">BibTeX</button>
-						${pub.url ? `<a href="${pub.url}" class="button small" target="_blank">Paper</a>` : ''}
-						${pub.doi ? `<a href="https://doi.org/${pub.doi}" class="button small" target="_blank">DOI</a>` : ''}
-					</div>
-				</div>
-			`;
-		}
+        <div class="paper-card" data-year="2025" data-venue="other">
+          <span class="paper-venue venue-other">AfricaNLP 2025</span>
+          <div class="paper-title">Who Wrote This? Identifying Machine vs Human-Generated Text in Hausa</div>
+          <div class="paper-meta">Workshop Paper &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
 
-		// Toggle abstract visibility
-		function toggleAbstract(abstractId) {
-			const element = document.getElementById(abstractId);
-			element.classList.toggle('show');
-		}
+        <div class="paper-card" data-year="2025" data-venue="other">
+          <span class="paper-venue venue-other">AfricaNLP 2025</span>
+          <div class="paper-title">Automatic Speech Recognition for African Low-Resource Languages: Challenges and Future Directions</div>
+          <div class="paper-meta">Workshop Paper &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
 
-		// Show BibTeX modal
-		function showBibtex(publicationId) {
-			const pub = publicationsData.find(p => p.id === publicationId);
-			if (pub && pub.bibtex) {
-				document.getElementById('bibtexCode').textContent = pub.bibtex;
-				document.getElementById('bibtexModal').style.display = 'block';
-			}
-		}
+        <div class="paper-card" data-year="2025" data-venue="other">
+          <span class="paper-venue venue-other">AfricaNLP 2025</span>
+          <div class="paper-title">HausaNLP: Current Status, Challenges and Future Directions for Hausa Natural Language Processing</div>
+          <div class="paper-meta">Workshop Paper &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
 
-		// Copy BibTeX to clipboard
-		function copyBibtex() {
-			const bibtexText = document.getElementById('bibtexCode').textContent;
-			navigator.clipboard.writeText(bibtexText).then(() => {
-				alert('BibTeX copied to clipboard!');
-			});
-		}
+        <div class="paper-card" data-year="2025" data-venue="other">
+          <span class="paper-venue venue-other">LoResLM 2025</span>
+          <div class="paper-title">Investigating the Impact of Language-Adaptive Fine-Tuning on Sentiment Analysis in Hausa Using AfriBERTa</div>
+          <div class="paper-meta">Workshop Paper &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
 
-		// Toggle year section visibility
-		function toggleYear(year) {
-			const content = document.getElementById(`content-${year}`);
-			const toggle = document.getElementById(`toggle-${year}`);
-			const isCollapsed = content.classList.contains('collapsed') || 
-							   content.style.maxHeight === '0px' || 
-							   content.style.opacity === '0';
-			
-			if (isCollapsed) {
-				// Expand
-				content.classList.remove('collapsed');
-				content.style.maxHeight = 'none';
-				content.style.opacity = '1';
-				content.style.marginBottom = '';
-				toggle.textContent = '▼';
-				localStorage.setItem(`year-${year}-expanded`, 'true');
-			} else {
-				// Collapse
-				content.classList.add('collapsed');
-				content.style.maxHeight = '0';
-				content.style.opacity = '0';
-				content.style.marginBottom = '0';
-				toggle.textContent = '▶';
-				localStorage.setItem(`year-${year}-expanded`, 'false');
-			}
-		}
+      </div>
+    </div>
 
-		// Filter publications
-		function filterPublications() {
-			const searchTerm = document.getElementById('searchInput').value.toLowerCase();
-			const yearFilter = document.getElementById('yearFilter').value;
-			const typeFilter = document.getElementById('typeFilter').value;
-			const authorFilter = document.getElementById('authorFilter').value;
-			
-			filteredData = publicationsData.filter(pub => {
-				const matchesSearch = !searchTerm || 
-					(pub.title || '').toLowerCase().includes(searchTerm) ||
-					(pub.authors || []).some(author => author.toLowerCase().includes(searchTerm)) ||
-					(pub.venue || '').toLowerCase().includes(searchTerm);
-				
-				const matchesYear = !yearFilter || pub.year === yearFilter;
-				const matchesType = !typeFilter || pub.type === typeFilter;
-				
-				// Normalize both the selected author and publication authors for comparison
-				const matchesAuthor = !authorFilter || (pub.authors || []).some(author => 
-					normalizeAuthorName(author) === normalizeAuthorName(authorFilter)
-				);
-				
-				return matchesSearch && matchesYear && matchesType && matchesAuthor;
-			});
-			
-			updateStats();
-			displayPublications();
-		}
+    <!-- 2024 -->
+    <div class="year-group fade-up" data-year-group="2024">
+      <div class="year-label">2024 <span class="year-count" data-year-total="7">7 papers</span></div>
+      <div class="papers-list">
 
-		// Event listeners
-		document.getElementById('searchInput').addEventListener('input', filterPublications);
-		document.getElementById('yearFilter').addEventListener('change', filterPublications);
-		document.getElementById('typeFilter').addEventListener('change', filterPublications);
-		document.getElementById('authorFilter').addEventListener('change', filterPublications);
+        <div class="paper-card" data-year="2024" data-venue="acl">
+          <span class="paper-venue venue-acl">ACL 2024</span>
+          <div class="paper-title">SemRel2024: A Collection of Semantic Textual Relatedness Datasets for 13 Languages</div>
+          <div class="paper-meta">Findings &mdash; <a href="https://aclanthology.org/2024.findings-acl.147/" class="paper-link" target="_blank" rel="noopener">Read &rarr;</a></div>
+        </div>
 
-		// Modal event listeners
-		document.querySelector('.bibtex-close').addEventListener('click', () => {
-			document.getElementById('bibtexModal').style.display = 'none';
-		});
+        <div class="paper-card" data-year="2024" data-venue="naacl">
+          <span class="paper-venue venue-naacl">NAACL 2024</span>
+          <div class="paper-title">AfriMTE and AfriCOMET: Enhancing COMET to Embrace Under-resourced African Languages</div>
+          <div class="paper-meta">Long Paper &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
 
-		window.addEventListener('click', (event) => {
-			const modal = document.getElementById('bibtexModal');
-			if (event.target === modal) {
-				modal.style.display = 'none';
-			}
-		});
+        <div class="paper-card" data-year="2024" data-venue="lrec">
+          <span class="paper-venue venue-lrec">LREC-COLING 2024</span>
+          <div class="paper-title">Mitigating Translationese in Low-resource Languages: The Storyboard Approach</div>
+          <div class="paper-meta">Main &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
 
-		// Initialize
-		document.addEventListener('DOMContentLoaded', () => {
-			loadPublications();
-		});
-		</script>
-	</body>
+        <div class="paper-card" data-year="2024" data-venue="semeval">
+          <span class="paper-venue venue-semeval">SemEval-2024</span>
+          <div class="paper-title">SemEval Task 1: Semantic Textual Relatedness for African and Asian Languages</div>
+          <div class="paper-meta">Task Overview &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
+
+        <div class="paper-card" data-year="2024" data-venue="wmt">
+          <span class="paper-venue venue-wmt">WMT 2024</span>
+          <div class="paper-title">Correcting FLORES Evaluation Dataset for Four African Languages</div>
+          <div class="paper-meta">Shared Task &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
+
+        <div class="paper-card" data-year="2024" data-venue="wmt">
+          <span class="paper-venue venue-wmt">WMT 2024</span>
+          <div class="paper-title">Findings of WMT2024 English-to-Low Resource Multimodal Translation Task</div>
+          <div class="paper-meta">Shared Task &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
+
+        <div class="paper-card" data-year="2024" data-venue="other">
+          <span class="paper-venue venue-other">WOAH 2024</span>
+          <div class="paper-title">HausaHate: An Expert Annotated Corpus for Hausa Hate Speech Detection</div>
+          <div class="paper-meta">Workshop Paper &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- 2023 -->
+    <div class="year-group fade-up" data-year-group="2023">
+      <div class="year-label">2023 <span class="year-count" data-year-total="7">7 papers</span></div>
+      <div class="papers-list">
+
+        <div class="paper-card" data-year="2023" data-venue="emnlp">
+          <span class="paper-venue venue-emnlp">EMNLP 2023</span>
+          <div class="paper-title">AfriSenti: A Twitter Sentiment Analysis Benchmark for African Languages</div>
+          <div class="paper-meta">Main &mdash; <a href="https://aclanthology.org/2023.emnlp-main.862/" class="paper-link" target="_blank" rel="noopener">Read &rarr;</a></div>
+        </div>
+
+        <div class="paper-card" data-year="2023" data-venue="acl">
+          <span class="paper-venue venue-acl">ACL 2023</span>
+          <div class="paper-title">HaVQA: A Dataset for Visual Question Answering and Multimodal Research in Hausa Language</div>
+          <div class="paper-meta">Findings &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
+
+        <div class="paper-card" data-year="2023" data-venue="emnlp">
+          <span class="paper-venue venue-emnlp">EMNLP 2023</span>
+          <div class="paper-title">AfriQA: Cross-lingual Open-Retrieval Question Answering for African Languages</div>
+          <div class="paper-meta">Findings &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
+
+        <div class="paper-card" data-year="2023" data-venue="acl">
+          <span class="paper-venue venue-acl">ACL 2023</span>
+          <div class="paper-title">MasakhaPOS: Part-of-Speech Tagging for Typologically Diverse African languages</div>
+          <div class="paper-meta">Long Paper &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
+
+        <div class="paper-card" data-year="2023" data-venue="other">
+          <span class="paper-venue venue-other">IJCNLP 2023</span>
+          <div class="paper-title">MasakhaNEWS: News Topic Classification for African languages</div>
+          <div class="paper-meta">Main &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
+
+        <div class="paper-card" data-year="2023" data-venue="semeval">
+          <span class="paper-venue venue-semeval">SemEval-2023</span>
+          <div class="paper-title">SemEval-2023 Task 12: Sentiment Analysis for African Languages (AfriSenti-SemEval)</div>
+          <div class="paper-meta">Task Overview &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
+
+        <div class="paper-card" data-year="2023" data-venue="semeval">
+          <span class="paper-venue venue-semeval">SemEval-2023</span>
+          <div class="paper-title">HausaNLP at SemEval-2023 Task 10: Transfer Learning, Synthetic Data and Side-information for Multi-level Sexism Classification</div>
+          <div class="paper-meta">System Description &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- 2022 -->
+    <div class="year-group fade-up" data-year-group="2022">
+      <div class="year-label">2022 <span class="year-count" data-year-total="6">6 papers</span></div>
+      <div class="papers-list">
+
+        <div class="paper-card" data-year="2022" data-venue="emnlp">
+          <span class="paper-venue venue-emnlp">EMNLP 2022</span>
+          <div class="paper-title">MasakhaNER 2.0: Africa-centric Transfer Learning for Named Entity Recognition</div>
+          <div class="paper-meta">Main &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
+
+        <div class="paper-card" data-year="2022" data-venue="lrec">
+          <span class="paper-venue venue-lrec">LREC 2022</span>
+          <div class="paper-title">NaijaSenti: A Nigerian Twitter Sentiment Corpus for Multilingual Sentiment Analysis</div>
+          <div class="paper-meta">Main &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
+
+        <div class="paper-card" data-year="2022" data-venue="lrec">
+          <span class="paper-venue venue-lrec">LREC 2022</span>
+          <div class="paper-title">Hausa Visual Genome: A Dataset for Multi-Modal English to Hausa Machine Translation</div>
+          <div class="paper-meta">Main &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
+
+        <div class="paper-card" data-year="2022" data-venue="naacl">
+          <span class="paper-venue venue-naacl">NAACL 2022</span>
+          <div class="paper-title">A Few Thousand Translations Go a Long Way! Leveraging Pre-trained Models for African News Translation</div>
+          <div class="paper-meta">Main &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
+
+        <div class="paper-card" data-year="2022" data-venue="other">
+          <span class="paper-venue venue-other">TACL Vol. 10</span>
+          <div class="paper-title">Quality at a Glance: An Audit of Web-Crawled Multilingual Datasets</div>
+          <div class="paper-meta">Journal Article &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
+
+        <div class="paper-card" data-year="2022" data-venue="wmt">
+          <span class="paper-venue venue-wmt">WMT 2022</span>
+          <div class="paper-title">Separating Grains from the Chaff: Using Data Filtering to Improve Multilingual Translation for Low-Resourced African Languages</div>
+          <div class="paper-meta">Shared Task &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- 2021 -->
+    <div class="year-group fade-up" data-year-group="2021">
+      <div class="year-label">2021 <span class="year-count" data-year-total="1">1 paper</span></div>
+      <div class="papers-list">
+
+        <div class="paper-card" data-year="2021" data-venue="other">
+          <span class="paper-venue venue-other">TACL Vol. 9</span>
+          <div class="paper-title">MasakhaNER: Named Entity Recognition for African Languages</div>
+          <div class="paper-meta">Journal Article &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
+
+      </div>
+    </div>
+
+    <!-- 2020 -->
+    <div class="year-group fade-up" data-year-group="2020">
+      <div class="year-label">2020 <span class="year-count" data-year-total="1">1 paper</span></div>
+      <div class="papers-list">
+
+        <div class="paper-card" data-year="2020" data-venue="emnlp">
+          <span class="paper-venue venue-emnlp">EMNLP 2020</span>
+          <div class="paper-title">Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages</div>
+          <div class="paper-meta">Findings &mdash; <a href="#" class="paper-link">Read &rarr;</a></div>
+        </div>
+
+      </div>
+    </div>
+
+  </div>
+</section>
+
+<footer id="footer">
+  <div class="footer-inner">
+    <div class="footer-top">
+      <div>
+        <div class="footer-brand-name"><span></span>HausaNLP</div>
+        <p class="footer-tagline">An open community of researchers advancing natural language processing for Hausa and African languages.</p>
+        <div class="footer-social">
+          <a href="https://github.com/hausanlp" target="_blank" rel="noopener" class="social-link">GH</a>
+          <a href="https://huggingface.co/HausaNLP" target="_blank" rel="noopener" class="social-link">HF</a>
+          <a href="https://twitter.com/HausaNLP" target="_blank" rel="noopener" class="social-link">X</a>
+        </div>
+      </div>
+      <div>
+        <div class="footer-col-title">Research</div>
+        <ul class="footer-links">
+          <li><a href="research.html">Research Areas</a></li>
+          <li><a href="publications.html">Publications</a></li>
+          <li><a href="projects.html">Projects &amp; Datasets</a></li>
+          <li><a href="https://catalog.hausanlp.org/" target="_blank" rel="noopener">HausaNLP Catalogue</a></li>
+        </ul>
+      </div>
+      <div>
+        <div class="footer-col-title">Community</div>
+        <ul class="footer-links">
+          <li><a href="team.html">Team</a></li>
+          <li><a href="news.html">News &amp; Blog</a></li>
+          <li><a href="https://arewadatascience.github.io/" target="_blank" rel="noopener">Arewa Data Science</a></li>
+          <li><a href="https://github.com/hausanlp" target="_blank" rel="noopener">GitHub</a></li>
+        </ul>
+      </div>
+      <div>
+        <div class="footer-col-title">Organisation</div>
+        <ul class="footer-links">
+          <li><a href="about.html">About Us</a></li>
+          <li><a href="contact.html">Contact</a></li>
+          <li><a href="https://huggingface.co/HausaNLP" target="_blank" rel="noopener">HuggingFace</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>&copy; 2025 HausaNLP Research Group. All rights reserved.</span>
+      <span>Advancing NLP for African Languages</span>
+    </div>
+  </div>
+</footer>
+
+<script>
+  const navbar = document.getElementById('navbar');
+  window.addEventListener('scroll', () => navbar.classList.toggle('scrolled', window.scrollY > 10), {passive:true});
+  document.getElementById('hamburger').addEventListener('click', () => document.getElementById('navLinks').classList.toggle('open'));
+  const obs = new IntersectionObserver(entries => entries.forEach(e => { if(e.isIntersecting){ e.target.classList.add('visible'); obs.unobserve(e.target); }}), {threshold:.1});
+  document.querySelectorAll('.fade-up').forEach(el => obs.observe(el));
+</script>
+
+<script>
+  // Publications Filter System
+  (function() {
+    const allCards = Array.from(document.querySelectorAll('.paper-card'));
+    const yearGroups = Array.from(document.querySelectorAll('[data-year-group]'));
+    const totalCount = allCards.length;
+
+    let activeVenue = 'all';
+    let activeYear = 'all';
+    let searchQuery = '';
+
+    const countEl = document.getElementById('pubCount');
+    const noResults = document.getElementById('noResults');
+    const resetBtn = document.getElementById('resetFilters');
+    const searchInput = document.getElementById('pubSearch');
+    const searchClear = document.getElementById('searchClear');
+
+    function matches(card) {
+      const venueOk = activeVenue === 'all' || card.dataset.venue === activeVenue;
+      const yearOk = activeYear === 'all' || card.dataset.year === activeYear;
+      const titleText = card.querySelector('.paper-title').textContent.toLowerCase();
+      const venueText = card.querySelector('.paper-venue').textContent.toLowerCase();
+      const searchOk = !searchQuery || titleText.includes(searchQuery) || venueText.includes(searchQuery);
+      return venueOk && yearOk && searchOk;
+    }
+
+    function applyFilters() {
+      let visible = 0;
+      allCards.forEach(card => {
+        const show = matches(card);
+        card.style.display = show ? '' : 'none';
+        if (show) visible++;
+      });
+
+      // Update year group visibility and counts
+      yearGroups.forEach(group => {
+        const yearCards = group.querySelectorAll('.paper-card');
+        const visibleInGroup = Array.from(yearCards).filter(c => c.style.display !== 'none').length;
+        group.style.display = visibleInGroup === 0 ? 'none' : '';
+
+        const countEl = group.querySelector('.year-count');
+        if (countEl) {
+          const total = parseInt(countEl.dataset.yearTotal);
+          countEl.textContent = visibleInGroup === total
+            ? `${total} paper${total !== 1 ? 's' : ''}`
+            : `${visibleInGroup} of ${total} papers`;
+        }
+      });
+
+      // Update status bar
+      const isFiltered = activeVenue !== 'all' || activeYear !== 'all' || searchQuery;
+      countEl.textContent = isFiltered
+        ? `Showing ${visible} of ${totalCount} papers`
+        : `Showing all ${totalCount} papers`;
+      resetBtn.style.display = isFiltered ? '' : 'none';
+      noResults.style.display = visible === 0 ? '' : 'none';
+    }
+
+    // Venue pills
+    document.getElementById('venuePills').addEventListener('click', e => {
+      const btn = e.target.closest('[data-filter="venue"]');
+      if (!btn) return;
+      document.querySelectorAll('[data-filter="venue"]').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeVenue = btn.dataset.value;
+      applyFilters();
+    });
+
+    // Year pills
+    document.getElementById('yearPills').addEventListener('click', e => {
+      const btn = e.target.closest('[data-filter="year"]');
+      if (!btn) return;
+      document.querySelectorAll('[data-filter="year"]').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      activeYear = btn.dataset.value;
+      applyFilters();
+    });
+
+    // Search
+    searchInput.addEventListener('input', e => {
+      searchQuery = e.target.value.trim().toLowerCase();
+      searchClear.style.display = searchQuery ? '' : 'none';
+      applyFilters();
+    });
+    searchClear.addEventListener('click', () => {
+      searchInput.value = '';
+      searchQuery = '';
+      searchClear.style.display = 'none';
+      searchInput.focus();
+      applyFilters();
+    });
+
+    // Reset
+    document.getElementById('resetFilters').addEventListener('click', resetAll);
+    window.resetAll = function() {
+      activeVenue = 'all';
+      activeYear = 'all';
+      searchQuery = '';
+      searchInput.value = '';
+      searchClear.style.display = 'none';
+      document.querySelectorAll('[data-filter="venue"]').forEach(b => b.classList.toggle('active', b.dataset.value === 'all'));
+      document.querySelectorAll('[data-filter="year"]').forEach(b => b.classList.toggle('active', b.dataset.value === 'all'));
+      applyFilters();
+    };
+  })();
+</script>
+
+</body>
 </html>
